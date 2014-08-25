@@ -1,6 +1,6 @@
 var parking, shops, rental;
 
-var map = L.map('map').setView([-12.9303, -38.4274], 12);
+var map = L.map('map').setView([-12.9383, -38.4261], 12);
 
 var mapTiles = L.tileLayer('http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {
   attribution: 'Maps &copy; <a href="http://www.thunderforest.com">Thunderforest</a>, \

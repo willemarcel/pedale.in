@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+}
+
+html, body, #map {
+  height: 100%;
+}
+
+.navbar {
+  background: #428BCA;
+}
+
+.navbar a {
+  color: #fff !important;
+}
+
+.navbar a:hover {
+  color: #ddd !important;
+}
+
+.navbar-default {
+  border-color: #428BCA !important;
+}
+
+#sobre .modal-body p {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #EEE;
+}
+
+#sobre .modal-body p:last-child {
+  border-bottom: none;
+}

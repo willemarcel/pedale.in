@@ -1,6 +1,6 @@
 var parking, shops, rental;
 
-var map = L.map('map').setView([-12.9696, -38.4676], 13);
+var map = L.map('map').setView([-12.9303, -38.4274], 12);
 
 var mapTiles = L.tileLayer('http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {
   attribution: 'Maps &copy; <a href="http://www.thunderforest.com">Thunderforest</a>, \
@@ -8,19 +8,28 @@ var mapTiles = L.tileLayer('http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.pn
 });
 mapTiles.addTo(map);
 
-var markerIcon = L.icon({
-  iconUrl: 'js/images/marker-48.png',
+var shopIcon = L.icon({
+  iconUrl: 'icons/shop.png',
   iconRetinaUrl: 'js/images/marker-48@2x.png',
-  iconSize: [48, 48],
-  iconAnchor: [24, 42],
+  iconSize: [25, 35],
+  iconAnchor: [12, 35],
   popupAnchor: [0, -30],
 });
 
-var circleIcon = L.icon({
-  iconUrl: 'js/images/circle-20.png',
-  iconRetinaUrl: 'js/images/circle-20@2x.png',
-  iconSize: [20, 20],
-  popupAnchor: [0, -8],
+var parkingIcon = L.icon({
+  iconUrl: 'icons/parking.png',
+  iconRetinaUrl: 'js/images/marker-48@2x.png',
+  iconSize: [25, 35],
+  iconAnchor: [12, 35],
+  popupAnchor: [0, -30],
+});
+
+var rentalIcon = L.icon({
+  iconUrl: 'icons/rental.png',
+  iconRetinaUrl: 'js/images/marker-48@2x.png',
+  iconSize: [25, 35],
+  iconAnchor: [12, 35],
+  popupAnchor: [0, -30],
 });
 
 function popupContent(item) {
@@ -34,7 +43,7 @@ function popupContent(item) {
 $.getJSON("data/shops.geojson", function (data) {
   shops = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
-      return L.marker(latlng).bindPopup(popupContent(feature.properties));
+      return L.marker(latlng, {icon: shopIcon}).bindPopup(popupContent(feature.properties));
     },
   });
   shops.addTo(map);
@@ -43,7 +52,7 @@ $.getJSON("data/shops.geojson", function (data) {
 $.getJSON("data/parking.geojson", function (data) {
   parking = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
-      return L.marker(latlng).bindPopup(popupContent(feature.properties));
+      return L.marker(latlng, {icon: parkingIcon}).bindPopup(popupContent(feature.properties));
     },
   });
   parking.addTo(map);
@@ -52,7 +61,7 @@ $.getJSON("data/parking.geojson", function (data) {
 $.getJSON("data/rental.geojson", function (data) {
   rental = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
-      return L.marker(latlng).bindPopup(popupContent(feature.properties));
+      return L.marker(latlng, {icon: rentalIcon}).bindPopup(popupContent(feature.properties));
     },
   });
   rental.addTo(map);

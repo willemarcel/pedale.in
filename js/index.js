@@ -32,36 +32,72 @@ var rentalIcon = L.icon({
   popupAnchor: [0, -30],
 });
 
-function popupContent(item) {
-  if (item.name) {
-    return '<strong>' + item.name + '</strong>';
-  } else {
-    return 'Sem nome';
+
+function rentalPopup(item) {
+  html = '<span class="popup-title">Estação </span>';
+  if (item.properties.ref) {
+    html += '<span class="ref">' + item.properties.ref + '. </span>';
   }
+  if (item.properties.name) {
+    html += '<span class="name">' + item.properties.name + '</span>';
+  }
+  if (html === '<span class="popup-title">Estação </span>') {
+    html = 'Conhece essa estação? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ela no OpenStreetMap</a>?';
+  }
+  return html;
 }
+
+
+function parkingPopup(item) {
+  if (item.properties.name) {
+    html = '<span class="name">' + item.properties.name + '</span><br>';
+  } else {
+    html = 'Bicicletário<br>';
+  }
+  if (item.properties.capacity) {
+    html += '<span class="capacity">' + item.properties.capacity + ' vagas</span>';
+  }
+  if (html === 'Bicicletário<br>') {
+    html = 'Conhece esse bicicletário? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ele no OpenStreetMap</a>?';
+  }
+  return html;
+}
+
+
+function shopPopup(item) {
+  if (item.properties.name) {
+    html = '<span class="name">' + item.properties.name + '</span>';
+  } else {
+    html = 'Conhece esse lugar? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ele no OpenStreetMap</a>?';
+  }
+  return html;
+}
+
 
 $.getJSON("data/shops.geojson", function (data) {
   shops = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
-      return L.marker(latlng, {icon: shopIcon}).bindPopup(popupContent(feature.properties));
+      return L.marker(latlng, {icon: shopIcon}).bindPopup(shopPopup(feature));
     },
   });
   shops.addTo(map);
 });
 
+
 $.getJSON("data/parking.geojson", function (data) {
   parking = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
-      return L.marker(latlng, {icon: parkingIcon}).bindPopup(popupContent(feature.properties));
+      return L.marker(latlng, {icon: parkingIcon}).bindPopup(parkingPopup(feature));
     },
   });
   parking.addTo(map);
 });
 
+
 $.getJSON("data/rental.geojson", function (data) {
   rental = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
-      return L.marker(latlng, {icon: rentalIcon}).bindPopup(popupContent(feature.properties));
+      return L.marker(latlng, {icon: rentalIcon}).bindPopup(rentalPopup(feature));
     },
   });
   rental.addTo(map);

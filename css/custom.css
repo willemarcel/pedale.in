@@ -44,3 +44,7 @@ html, body, #map {
 #sobre .modal-body p:last-child {
   border-bottom: none;
 }
+
+.name, .ref, .popup-title {
+  font-weight: bold;
+}

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-08-24T23:28:02Z",
+  "timestamp": "2014-09-09T16:28:02Z",
   "features": [
     {
       "type": "Feature",
@@ -74,40 +74,6 @@
         "coordinates": [
           -38.5150594,
           -12.9835557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2816360335",
-      "properties": {
-        "@id": "node/2816360335",
-        "amenity": "bicycle_parking",
-        "name": "Temporario"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5310366,
-          -13.0036726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2832647549",
-      "properties": {
-        "@id": "node/2832647549",
-        "access": "public",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "name": "exemplo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5162136,
-          -12.9981825
         ]
       }
     },

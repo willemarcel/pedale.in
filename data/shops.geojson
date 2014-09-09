@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-08-24T23:26:02Z",
+  "timestamp": "2014-09-09T16:28:02Z",
   "features": [
     {
       "type": "Feature",
@@ -218,6 +218,86 @@
         "coordinates": [
           -38.4217706,
           -12.9383506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3044719033",
+      "properties": {
+        "@id": "node/3044719033",
+        "addr:city": "Salvador",
+        "addr:street": "Praça General Inocêncio Galvão",
+        "addr:suburb": "Centro",
+        "name": "ErvaCiclo",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5168053,
+          -12.9825833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3045971158",
+      "properties": {
+        "@id": "node/3045971158",
+        "addr:city": "Salvador",
+        "addr:housenumber": "60",
+        "addr:postcode": "41710-000",
+        "addr:street": "Estrada Professor Pinto de Aguiar",
+        "addr:suburb": "Boca do Rio",
+        "name": "A&M BICICLETARIA",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4318986,
+          -12.975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3045973988",
+      "properties": {
+        "@id": "node/3045973988",
+        "addr:city": "Salvador",
+        "addr:housenumber": "72",
+        "addr:street": "Rua Simões Filho",
+        "addr:suburb": "Boca do Rio",
+        "name": "Pro Bike",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4324538,
+          -12.9799498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3045975500",
+      "properties": {
+        "@id": "node/3045975500",
+        "addr:city": "Salvador",
+        "addr:housenumber": "13",
+        "addr:street": "Rua Simões Filho",
+        "addr:suburb": "Boca do Rio",
+        "name": "Alan Bikes",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4302329,
+          -12.9780679
         ]
       }
     }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-08-24T23:24:02Z",
+  "timestamp": "2014-09-09T16:28:02Z",
   "features": [
     {
       "type": "Feature",
@@ -696,29 +696,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2687094136",
-      "properties": {
-        "@id": "node/2687094136",
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "name": "Largo do Papagaio",
-        "network": "Bike Salvador",
-        "opening_hours": "Su-Sa 06:00-22:00",
-        "operator": "Bike Salvador",
-        "phone": "+55 71 40627024",
-        "ref": "37",
-        "website": "http://www.bikesalvador.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5028355,
-          -12.9226101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2687094137",
       "properties": {
         "@id": "node/2687094137",
@@ -784,36 +761,61 @@
     },
     {
       "type": "Feature",
-      "id": "node/2878179409",
-      "properties": {
-        "@id": "node/2878179409",
-        "amenity": "bicycle_rental"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5201693,
-          -12.9897205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2878179410",
       "properties": {
         "@id": "node/2878179410",
         "amenity": "bicycle_rental",
-        "bicycle_parking": "BICICLETARIO_",
-        "capacity": "11",
-        "name": "ESTAÇÃO DA RIBEIRA - 39",
-        "network": "BIKE SALVADOR",
-        "operator": "BIKE SALVADOR"
+        "capacity": "12",
+        "name": "Largo da Ribeira",
+        "network": "Bike Salvador",
+        "operator": "Bike Salvador",
+        "ref": "39"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -38.4946287,
           -12.9120411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3066932832",
+      "properties": {
+        "@id": "node/3066932832",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estação do Tainheiro",
+        "network": "Bike Salvador",
+        "operator": "Bike Salvador",
+        "ref": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4935298,
+          -12.9151479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3066936633",
+      "properties": {
+        "@id": "node/3066936633",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ferry Boat",
+        "network": "Bike Salvador",
+        "operator": "Bike Salvador",
+        "ref": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5020807,
+          -12.9549039
         ]
       }
     }

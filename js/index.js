@@ -2,11 +2,20 @@ var parking, shops, rental;
 
 var map = L.map('map').setView([-12.9383, -38.4261], 12);
 
-var mapTiles = L.tileLayer('http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {
+var cycleMap = L.tileLayer('http://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {
   attribution: 'Maps &copy; <a href="http://www.thunderforest.com">Thunderforest</a>, \
                Data &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 });
-mapTiles.addTo(map);
+cycleMap.addTo(map)
+
+var transportMap = L.tileLayer('http://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png', {
+  attribution: 'Maps &copy; <a href="http://www.thunderforest.com">Thunderforest</a>, \
+               Data &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+});
+
+var parkingLayer = L.layerGroup([]);
+var rentalLayer = L.layerGroup([]);
+var shopLayer = L.layerGroup([]);
 
 var shopIcon = L.icon({
   iconUrl: 'icons/shop.png',
@@ -33,21 +42,6 @@ var rentalIcon = L.icon({
 });
 
 
-function rentalPopup(item) {
-  html = '<span class="popup-title">Estação </span>';
-  if (item.properties.ref) {
-    html += '<span class="ref">' + item.properties.ref + '. </span>';
-  }
-  if (item.properties.name) {
-    html += '<span class="name">' + item.properties.name + '</span>';
-  }
-  if (html === '<span class="popup-title">Estação </span>') {
-    html = 'Conhece essa estação? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ela no OpenStreetMap</a>?';
-  }
-  return html;
-}
-
-
 function parkingPopup(item) {
   if (item.properties.name) {
     html = '<span class="name">' + item.properties.name + '</span><br>';
@@ -64,6 +58,21 @@ function parkingPopup(item) {
 }
 
 
+function rentalPopup(item) {
+  html = '<span class="popup-title">Estação </span>';
+  if (item.properties.ref) {
+    html += '<span class="ref">' + item.properties.ref + '. </span>';
+  }
+  if (item.properties.name) {
+    html += '<span class="name">' + item.properties.name + '</span>';
+  }
+  if (html === '<span class="popup-title">Estação </span>') {
+    html = 'Conhece essa estação? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ela no OpenStreetMap</a>?';
+  }
+  return html;
+}
+
+
 function shopPopup(item) {
   if (item.properties.name) {
     html = '<span class="name">' + item.properties.name + '</span>';
@@ -74,23 +83,13 @@ function shopPopup(item) {
 }
 
 
-$.getJSON("data/shops.geojson", function (data) {
-  shops = L.geoJson(data, {
-    pointToLayer: function (feature, latlng) {
-      return L.marker(latlng, {icon: shopIcon}).bindPopup(shopPopup(feature));
-    },
-  });
-  shops.addTo(map);
-});
-
-
 $.getJSON("data/parking.geojson", function (data) {
   parking = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
       return L.marker(latlng, {icon: parkingIcon}).bindPopup(parkingPopup(feature));
     },
   });
-  parking.addTo(map);
+  parking.addTo(parkingLayer);
 });
 
 
@@ -100,5 +99,32 @@ $.getJSON("data/rental.geojson", function (data) {
       return L.marker(latlng, {icon: rentalIcon}).bindPopup(rentalPopup(feature));
     },
   });
-  rental.addTo(map);
+  rental.addTo(rentalLayer);
 });
+
+
+$.getJSON("data/shops.geojson", function (data) {
+  shop = L.geoJson(data, {
+    pointToLayer: function (feature, latlng) {
+      return L.marker(latlng, {icon: shopIcon}).bindPopup(shopPopup(feature));
+    },
+  });
+  shop.addTo(shopLayer);
+});
+
+var baseMaps = {
+  "CycleMap": cycleMap,
+  "Transporte Público": transportMap,
+};
+
+var overlayMaps = {
+  "Bicicletários": parkingLayer,
+  "Estações de Compartilhamento de Bicicletas": rentalLayer,
+  "Lojas e Oficinas": shopLayer,
+};
+
+parkingLayer.addTo(map);
+rentalLayer.addTo(map);
+shopLayer.addTo(map);
+
+L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);

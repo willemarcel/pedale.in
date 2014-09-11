@@ -25,9 +25,22 @@ html, body, #map {
   font-size: 1.4em;
 }
 
-.navbar-brand {
+.site-name {
   font-weight: '800' !important;
   font-size: 1.7em !important;
+}
+
+.cities-menu a {
+  font-size: 1.4em !important;
+}
+
+.cities-menu a:hover {
+  font-size: 1.4em !important;
+  text-decoration: none;
+}
+
+.btn-group.open .dropdown-toggle {
+  box-shadow: none;
 }
 
 .navbar a:hover {

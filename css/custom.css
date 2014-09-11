@@ -17,6 +17,14 @@ html, body, #map {
   font-size: 1.4em;
 }
 
+.btn-primary, .dropdown-menu li {
+  font-family: 'Dosis', 'sans-serif';
+}
+
+.btn-primary {
+  font-size: 1.4em;
+}
+
 .navbar-brand {
   font-weight: '800' !important;
   font-size: 1.7em !important;
@@ -26,8 +34,23 @@ html, body, #map {
   color: #f2f2f2 !important;
 }
 
-.navbar-default {
+.navbar-default, .btn-primary {
   border-color: #428BCA !important;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  background-color: #428BCA !important;
+  color: #fff;
+}
+
+.dropdown-menu {
+  background-color: #428BCA !important;
+  color: #fff;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  background-color: #428BCA !important;
+  color: #fff;
 }
 
 .site-icon{

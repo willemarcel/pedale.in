@@ -19,7 +19,7 @@ var shopLayer = L.layerGroup([]);
 
 var shopIcon = L.icon({
   iconUrl: 'icons/shop.png',
-  iconRetinaUrl: 'js/images/marker-48@2x.png',
+  //iconRetinaUrl: 'js/images/marker-48@2x.png',
   iconSize: [25, 35],
   iconAnchor: [12, 35],
   popupAnchor: [0, -30],
@@ -27,7 +27,7 @@ var shopIcon = L.icon({
 
 var parkingIcon = L.icon({
   iconUrl: 'icons/parking.png',
-  iconRetinaUrl: 'js/images/marker-48@2x.png',
+  //iconRetinaUrl: 'js/images/marker-48@2x.png',
   iconSize: [25, 35],
   iconAnchor: [12, 35],
   popupAnchor: [0, -30],
@@ -35,7 +35,7 @@ var parkingIcon = L.icon({
 
 var rentalIcon = L.icon({
   iconUrl: 'icons/rental.png',
-  iconRetinaUrl: 'js/images/marker-48@2x.png',
+  //iconRetinaUrl: 'js/images/marker-48@2x.png',
   iconSize: [25, 35],
   iconAnchor: [12, 35],
   popupAnchor: [0, -30],
@@ -127,4 +127,4 @@ parkingLayer.addTo(map);
 rentalLayer.addTo(map);
 shopLayer.addTo(map);
 
-L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);
+L.control.layers(baseMaps, overlayMaps, {collapsed: true}).addTo(map);

@@ -30,6 +30,11 @@ html, body, #map {
   font-size: 1.7em !important;
 }
 
+.cities-menu {
+  padding-top: 18px;
+  line-height: 20px;
+}
+
 .cities-menu a {
   font-size: 1.4em !important;
 }
@@ -66,7 +71,7 @@ html, body, #map {
   color: #fff;
 }
 
-.site-icon{
+.site-icon {
   margin-bottom: 4px;
   margin-right: 10px;
   height: 25px;

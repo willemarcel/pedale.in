@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvador",,
+        "code":"ssa"
+        "zoom": 12,
+        "id": 362362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.48236083984375,
+          -12.980805882956505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aracaju",,
+        "code":"aju"
+        "zoom": 13,
+        "id": 303928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0615,
+          -10.9502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasília",,
+        "code":"bsb"
+        "zoom": 12,
+        "id": 2758138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9378,
+          -15.7990
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio de Janeiro",,
+        "code":"rio"
+        "zoom": 12,
+        "id": 2697338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1546,
+          -22.9018
+        ]
+      }
+    }
+  ]
+}

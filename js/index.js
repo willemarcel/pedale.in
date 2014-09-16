@@ -83,7 +83,7 @@ function shopPopup(item) {
 }
 
 
-$.getJSON("data/parking.geojson", function (data) {
+$.getJSON("data/brazil_parking.geojson", function (data) {
   parking = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
       return L.marker(latlng, {icon: parkingIcon}).bindPopup(parkingPopup(feature));
@@ -93,7 +93,7 @@ $.getJSON("data/parking.geojson", function (data) {
 });
 
 
-$.getJSON("data/rental.geojson", function (data) {
+$.getJSON("data/brazil_rental.geojson", function (data) {
   rental = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
       return L.marker(latlng, {icon: rentalIcon}).bindPopup(rentalPopup(feature));
@@ -103,7 +103,7 @@ $.getJSON("data/rental.geojson", function (data) {
 });
 
 
-$.getJSON("data/shops.geojson", function (data) {
+$.getJSON("data/brazil_shop.geojson", function (data) {
   shop = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
       return L.marker(latlng, {icon: shopIcon}).bindPopup(shopPopup(feature));

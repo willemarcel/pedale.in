@@ -113,7 +113,7 @@ $.getJSON("data/brazil_shop.geojson", function (data) {
 });
 
 var baseMaps = {
-  "CycleMap": cycleMap,
+  "Cicloviário": cycleMap,
   "Transporte Público": transportMap,
 };
 

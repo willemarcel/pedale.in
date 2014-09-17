@@ -17,6 +17,14 @@ html, body, #map {
   font-size: 1.4em;
 }
 
+.navbar-toggle:focus, .navbar-toggle:hover {
+  background-color: #3260c9 !important;
+}
+
+.icon-bar {
+  background-color: #fff !important;
+}
+
 .btn-primary, .dropdown-menu li {
   font-family: 'Dosis', 'sans-serif';
 }

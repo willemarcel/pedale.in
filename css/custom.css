@@ -97,3 +97,7 @@ html, body, #map {
 .name, .ref, .popup-title {
   font-weight: bold;
 }
+
+.glyphicon-earphone, .glyphicon-link {
+  padding-right: 5px;
+}

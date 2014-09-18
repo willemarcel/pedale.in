@@ -75,9 +75,15 @@ function rentalPopup(item) {
 
 function shopPopup(item) {
   if (item.properties.name) {
-    html = '<span class="name">' + item.properties.name + '</span>';
+    html = '<p><span class="name">' + item.properties.name + '</span></p>';
+    if (item.properties.phone) {
+      html += '<span class="glyphicon glyphicon-earphone"></span><span class="phone">' + item.properties.phone + '</span><br>';
+    }
+    if (item.properties.website) {
+      html += '<span class="glyphicon glyphicon-link"></span><a class="website" href="' + item.properties.website + '">' + item.properties.website + '</a>';
+    }
   } else {
-    html = 'Conhece esse lugar? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ele no OpenStreetMap</a>?';
+    html = 'Conhece essa loja ou oficina? Que tal <a href="http://osm.org/' + item.id + '">adicionar mais informações sobre ele no OpenStreetMap</a>?';
   }
   return html;
 }

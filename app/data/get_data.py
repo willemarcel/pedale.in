@@ -1,8 +1,6 @@
 import json
 from subprocess import call
 
-from overpass.cli import cli as api
-
 
 def get_data():
     """Read cities.geojson and get the data using Overpass API"""

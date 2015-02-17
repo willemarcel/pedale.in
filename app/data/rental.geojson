@@ -1,0 +1,8184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0517901,
+          -10.9172937
+        ],
+        "type": "Point"
+      },
+      "id": 2895729630,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Rua Boquim",
+        "alt_name": "Conservatório de Música",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "08",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0485126,
+          -10.9182272
+        ],
+        "type": "Point"
+      },
+      "id": 2895729631,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Praça Almirante Tamandaré",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "07",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0470587,
+          -10.9202019
+        ],
+        "type": "Point"
+      },
+      "id": 2895729632,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Praça Almirante Tamandaré",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "09",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0519076,
+          -10.9206738
+        ],
+        "type": "Point"
+      },
+      "id": 2895729633,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Rua Riachuelo",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "10",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0517208,
+          -10.922864
+        ],
+        "type": "Point"
+      },
+      "id": 2895729634,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Rua Santa Luzia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "06",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0413085,
+          -10.9657348
+        ],
+        "type": "Point"
+      },
+      "id": 2895729635,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Rua Pedro Mandarino",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "05",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0383367,
+          -10.9745219
+        ],
+        "type": "Point"
+      },
+      "id": 2895729636,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Avenida Santos Dumont",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "04",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.041221,
+          -10.9783536
+        ],
+        "type": "Point"
+      },
+      "id": 2895729637,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Avenida Santos Dumont",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "03",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0472277,
+          -10.98697
+        ],
+        "type": "Point"
+      },
+      "id": 2895729638,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Avenida Santos Dumont",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "02",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0518916,
+          -10.9872576
+        ],
+        "type": "Point"
+      },
+      "id": 2895729639,
+      "properties": {
+        "addr:street": "Avenida Rotary",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "01",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0483371,
+          -10.9074674
+        ],
+        "type": "Point"
+      },
+      "id": 2953638687,
+      "properties": {
+        "addr:street": "Praça do Mercado",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "13",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0521058,
+          -10.9441497
+        ],
+        "type": "Point"
+      },
+      "id": 3023126224,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Avenida Santos Dumont",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0504456,
+          -10.9407459
+        ],
+        "type": "Point"
+      },
+      "id": 3098614156,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Avenida Santos Dumont",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike Beira Mar",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0474135,
+          -10.9315842
+        ],
+        "type": "Point"
+      },
+      "id": 3098614157,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Avenida Beira Mar",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caju Bike Mirante",
+        "network": "Caju Bike",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Caju Bike",
+        "phone": "+55 4003 9891",
+        "ref": "16",
+        "website": "http://www.cajubike.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9139094,
+          -15.784617
+        ],
+        "type": "Point"
+      },
+      "id": 2897250171,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Memorial JK",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "1",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9087794,
+          -15.7863125
+        ],
+        "type": "Point"
+      },
+      "id": 2897250172,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Buriti",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "2",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9007476,
+          -15.7865141
+        ],
+        "type": "Point"
+      },
+      "id": 2897250173,
+      "properties": {
+        "addr:street": "Centro de Convenções",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Brasília - Estação 3",
+        "operator": "Itaú"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8953122,
+          -15.7896869
+        ],
+        "type": "Point"
+      },
+      "id": 2897250174,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Torre de TV",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "04",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8912495,
+          -15.7894888
+        ],
+        "type": "Point"
+      },
+      "id": 2897250175,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Setor Hoteleiro Norte",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "5",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8815521,
+          -15.7935055
+        ],
+        "type": "Point"
+      },
+      "id": 2897250176,
+      "properties": {
+        "addr:street": "Rodoviária do Plano Piloto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rodoviária",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "6",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8747028,
+          -15.7975787
+        ],
+        "type": "Point"
+      },
+      "id": 2897250177,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Catedral Metropolitana",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "07",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8718436,
+          -15.7960608
+        ],
+        "type": "Point"
+      },
+      "id": 2897250178,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ministério da Defesa",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "26",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8724296,
+          -15.7984104
+        ],
+        "type": "Point"
+      },
+      "id": 2897250179,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ministério da Cultura",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "09",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8677576,
+          -15.7973305
+        ],
+        "type": "Point"
+      },
+      "id": 2897250180,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ministério dos Transportes",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "10",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8934279,
+          -15.7966903
+        ],
+        "type": "Point"
+      },
+      "id": 2944057189,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "SRTVS",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "16",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.895171,
+          -15.795148
+        ],
+        "type": "Point"
+      },
+      "id": 3148378171,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Brasil 21",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "15",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8878,
+          -15.7871246
+        ],
+        "type": "Point"
+      },
+      "id": 3148378172,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Brasília Shopping",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "14",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8803185,
+          -15.7892839
+        ],
+        "type": "Point"
+      },
+      "id": 3148378173,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Correios",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "28",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.883332,
+          -15.7863637
+        ],
+        "type": "Point"
+      },
+      "id": 3148378174,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Liberty Mall",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "13",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8692619,
+          -15.7993298
+        ],
+        "type": "Point"
+      },
+      "id": 3148378175,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ministério da Saúde",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "26",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8745917,
+          -15.7951056
+        ],
+        "type": "Point"
+      },
+      "id": 3148378176,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ministério do Planejamento",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "27",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8819282,
+          -15.794759
+        ],
+        "type": "Point"
+      },
+      "id": 3148378177,
+      "properties": {
+        "addr:street": "Rodoviária do Plano Piloto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rodoviária 2",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "11",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8839735,
+          -15.7941911
+        ],
+        "type": "Point"
+      },
+      "id": 3148378178,
+      "properties": {
+        "addr:street": "Rodoviária do Plano Piloto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rodoviária 3",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "12",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8827053,
+          -15.7954608
+        ],
+        "type": "Point"
+      },
+      "id": 3148378179,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Terminal Touring",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "25",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8891068,
+          -15.7986971
+        ],
+        "type": "Point"
+      },
+      "id": 3150030032,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça do Povo",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "18",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8909342,
+          -15.7961494
+        ],
+        "type": "Point"
+      },
+      "id": 3150030033,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Shopping Pátio Brasil",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Brasília",
+        "phone": "+55 61 40039846",
+        "ref": "17",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8796715,
+          -15.8046028
+        ],
+        "type": "Point"
+      },
+      "id": 3241582130,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "OAB",
+        "network": "Bike Brasília",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "30",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8837697,
+          -15.8022368
+        ],
+        "type": "Point"
+      },
+      "id": 3241582131,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Banco Central",
+        "network": "Bike Brasília",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "19",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.890051,
+          -15.8055808
+        ],
+        "type": "Point"
+      },
+      "id": 3249673965,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estação 102 Sul",
+        "network": "Bike Brasília",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "22",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8807424,
+          -15.8001009
+        ],
+        "type": "Point"
+      },
+      "id": 3249673966,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "SAS",
+        "network": "Bike Brasília",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "20",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2319906,
+          -30.0292351
+        ],
+        "type": "Point"
+      },
+      "id": 1990419336,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike PoA Praça da Alfândega",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "2",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.226905,
+          -30.0281847
+        ],
+        "type": "Point"
+      },
+      "id": 1990425242,
+      "properties": {
+        "addr:housenumber": "66",
+        "addr:postcode": "90020-061",
+        "addr:street": "Rua Marechal Floriano",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Mercado",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "1",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2314412,
+          -30.0376111
+        ],
+        "type": "Point"
+      },
+      "id": 1994048764,
+      "properties": {
+        "addr:housenumber": "945",
+        "addr:postcode": "90010-420",
+        "addr:street": "Avenida Loureiro da Silva",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Escola Parobé",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "35",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2485762,
+          -30.0972918
+        ],
+        "type": "Point"
+      },
+      "id": 1998043927,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike PoA Diário de Notícias",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "20",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2374753,
+          -30.0378516
+        ],
+        "type": "Point"
+      },
+      "id": 2032032686,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "description": "Estação 5",
+        "name": "Bike PoA Câmara de Vereadores",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "5",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2472294,
+          -30.0831073
+        ],
+        "type": "Point"
+      },
+      "id": 2163724150,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Bike PoA BarraShopping",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "34",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2350593,
+          -30.0309618
+        ],
+        "type": "Point"
+      },
+      "id": 2163724156,
+      "properties": {
+        "addr:housenumber": "539",
+        "addr:postcode": "90010-190",
+        "addr:street": "Rua 7 de Setembro",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Casa de Cultura Mário Quintana",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "3",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2234477,
+          -30.0326785
+        ],
+        "type": "Point"
+      },
+      "id": 2163724165,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike PoA Casa do Estudante",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "36",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.219574,
+          -30.0452778
+        ],
+        "type": "Point"
+      },
+      "id": 2163724179,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Ginásio Tesourinha",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "11",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2079615,
+          -30.0394857
+        ],
+        "type": "Point"
+      },
+      "id": 2163724184,
+      "properties": {
+        "addr:housenumber": "2350",
+        "addr:postcode": "90040-340",
+        "addr:street": "Avenida Jerônimo de Ornelas",
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Hospital de Clínicas",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "13",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2258845,
+          -30.0383593
+        ],
+        "type": "Point"
+      },
+      "id": 2163724189,
+      "properties": {
+        "addr:housenumber": "76",
+        "addr:postcode": "90050-210",
+        "addr:street": "Travessa do Carmo",
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Largo Zumbi",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "6",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2080763,
+          -30.0442127
+        ],
+        "type": "Point"
+      },
+      "id": 2163724212,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Planetário",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "14",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2209638,
+          -30.0419051
+        ],
+        "type": "Point"
+      },
+      "id": 2163724222,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Opinião",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "15",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2143965,
+          -30.0384523
+        ],
+        "type": "Point"
+      },
+      "id": 2163724228,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Redenção Araújo Viana",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "7",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2176956,
+          -30.0350793
+        ],
+        "type": "Point"
+      },
+      "id": 2163724234,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Redenção UFRGS",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "8",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.229145,
+          -30.042841
+        ],
+        "type": "Point"
+      },
+      "id": 2163724240,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike PoA Região dos Tribunais",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "36",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2290631,
+          -30.0482528
+        ],
+        "type": "Point"
+      },
+      "id": 2163724241,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike PoA Shopping Praia de Belas",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "12",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2096697,
+          -30.0501122
+        ],
+        "type": "Point"
+      },
+      "id": 2163724246,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Terminal Azenha",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "18",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2407242,
+          -30.0344221
+        ],
+        "type": "Point"
+      },
+      "id": 2163724251,
+      "properties": {
+        "addr:housenumber": "551",
+        "addr:postcode": "90010-120",
+        "addr:street": "Avenida Presidente João Goulart",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Usina do Gasômetro",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "4",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2086991,
+          -30.0291069
+        ],
+        "type": "Point"
+      },
+      "id": 2165260133,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Avenida Independência",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "26",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2038324,
+          -30.0384423
+        ],
+        "type": "Point"
+      },
+      "id": 2165260134,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Avenida Protásio Alves",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "27",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2107941,
+          -30.0318676
+        ],
+        "type": "Point"
+      },
+      "id": 2165260135,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "bicycle": "yes",
+        "capacity": "10",
+        "crossing": "traffic_signals",
+        "fixme": "Possivelmente impreciso.",
+        "highway": "crossing",
+        "name": "Bike PoA Avenida Vasco da Gama",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Samba",
+        "phone": "+55 51 40636299",
+        "ref": "38",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1189467,
+          -30.0729566
+        ],
+        "type": "Point"
+      },
+      "id": 2165260136,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Campus da UFRGS Agronomia",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "24",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1228529,
+          -30.0766137
+        ],
+        "type": "Point"
+      },
+      "id": 2165260137,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Campus da UFRGS Veterinária",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "25",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2213457,
+          -30.0338001
+        ],
+        "type": "Point"
+      },
+      "id": 2165260138,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Campus da UFRGS",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "23",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1736178,
+          -30.056258
+        ],
+        "type": "Point"
+      },
+      "id": 2165260139,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Complexo PUC",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "21",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.173436,
+          -30.0599406
+        ],
+        "type": "Point"
+      },
+      "id": 2165260140,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Complexo PUC",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "22",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.16336,
+          -30.0250844
+        ],
+        "type": "Point"
+      },
+      "id": 2165260141,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Iguatemi Shopping",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "30",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2271552,
+          -30.0540844
+        ],
+        "type": "Point"
+      },
+      "id": 2165260142,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike PoA Menino Deus - Botafogo",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "16",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2005562,
+          -30.0253092
+        ],
+        "type": "Point"
+      },
+      "id": 2165260143,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Parcão",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "32",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2005857,
+          -30.0284055
+        ],
+        "type": "Point"
+      },
+      "id": 2165260144,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Parcão",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "31",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1868541,
+          -30.036654
+        ],
+        "type": "Point"
+      },
+      "id": 2165260145,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Praça da Encol",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "39",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2249309,
+          -30.0358127
+        ],
+        "type": "Point"
+      },
+      "id": 2165260146,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Redenção Brique",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "9",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2189723,
+          -30.0234581
+        ],
+        "type": "Point"
+      },
+      "id": 2165260147,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Rodoviária",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "19",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2109656,
+          -30.0361035
+        ],
+        "type": "Point"
+      },
+      "id": 2165260148,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Redenção Mercadinho",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "10",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2216077,
+          -30.0477894
+        ],
+        "type": "Point"
+      },
+      "id": 2165260149,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Shopping João Pessoa",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "33",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1502131,
+          -30.0661381
+        ],
+        "type": "Point"
+      },
+      "id": 2165260152,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Terminal Antônio de Carvalho",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "29",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2012741,
+          -30.0442345
+        ],
+        "type": "Point"
+      },
+      "id": 2165260153,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "2",
+        "fixme": "Possivelmente impreciso.",
+        "name": "Bike PoA Zaffari Ipiranga",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "28",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2308317,
+          -30.0595715
+        ],
+        "type": "Point"
+      },
+      "id": 2418558652,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Bike PoA Menino Deus",
+        "network": "Bike PoA",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "phone": "+55 51 40636299",
+        "ref": "17",
+        "website": "http://www.movesamba.com.br/bikepoa/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2220879,
+          -30.0544214
+        ],
+        "type": "Point"
+      },
+      "id": 2574331669,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "BikePOA - Getulio Vargas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2449687,
+          -30.0771764
+        ],
+        "type": "Point"
+      },
+      "id": 2657588729,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.241134,
+          -30.0834541
+        ],
+        "type": "Point"
+      },
+      "id": 2933400800,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Poa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1804481,
+          -22.9648042
+        ],
+        "type": "Point"
+      },
+      "id": 332238489,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Cardeal Arcoverde",
+        "operator": "BikeRio",
+        "ref": "02",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1653841,
+          -22.962024
+        ],
+        "type": "Point"
+      },
+      "id": 365737776,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pedra do Leme",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1731798,
+          -22.9647356
+        ],
+        "type": "Point"
+      },
+      "id": 378687378,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Princesa Isabel",
+        "operator": "BikeRio",
+        "ref": "05",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1876157,
+          -22.9676612
+        ],
+        "type": "Point"
+      },
+      "id": 378688422,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Siqueira Campos",
+        "operator": "BikeRio",
+        "ref": "07",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1859335,
+          -22.9732839
+        ],
+        "type": "Point"
+      },
+      "id": 378689007,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Santa Clara",
+        "operator": "BikeRio",
+        "ref": "06",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1890126,
+          -22.9785819
+        ],
+        "type": "Point"
+      },
+      "id": 378689662,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Miguel Lemos",
+        "operator": "BikeRio",
+        "ref": "03",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1885899,
+          -22.9859745
+        ],
+        "type": "Point"
+      },
+      "id": 378690135,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Posto 6",
+        "operator": "BikeRio",
+        "ref": "04",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1905681,
+          -22.9867153
+        ],
+        "type": "Point"
+      },
+      "id": 412310720,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Cicle Calle",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2232659,
+          -22.9845932
+        ],
+        "type": "Point"
+      },
+      "id": 1493825875,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2114767,
+          -22.9861699
+        ],
+        "type": "Point"
+      },
+      "id": 1494285481,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Aníbal de Mendonça",
+        "operator": "BikeRio",
+        "ref": "08",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1922718,
+          -22.9885905
+        ],
+        "type": "Point"
+      },
+      "id": 1495570404,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pedra do Arpoador",
+        "operator": "BikeRio",
+        "ref": "25",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1971024,
+          -22.9848442
+        ],
+        "type": "Point"
+      },
+      "id": 1513980194,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "General Osório",
+        "operator": "BikeRio",
+        "ref": "09",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2007732,
+          -22.9864795
+        ],
+        "type": "Point"
+      },
+      "id": 1513980195,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Posto 9",
+        "operator": "BikeRio",
+        "ref": "26",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1741588,
+          -22.9291889
+        ],
+        "type": "Point"
+      },
+      "id": 1565182295,
+      "properties": {
+        "addr:housenumber": "128",
+        "addr:street": "Praia do Flamengo",
+        "amenity": "bicycle_rental",
+        "name": "Ferreira Viana",
+        "operator": "BikeRio",
+        "ref": "45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1778508,
+          -22.9306081
+        ],
+        "type": "Point"
+      },
+      "id": 1565182303,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Largo do Machado",
+        "operator": "BikeRio",
+        "ref": "40",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1656089,
+          -22.9550046
+        ],
+        "type": "Point"
+      },
+      "id": 1579719428,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Pão-de-Açúcar",
+        "operator": "BikeRio",
+        "ref": "56",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1763342,
+          -22.9528449
+        ],
+        "type": "Point"
+      },
+      "id": 1579749719,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "UFRJ Praia Vermelha",
+        "operator": "BikeRio",
+        "ref": "57",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1684126,
+          -22.9541607
+        ],
+        "type": "Point"
+      },
+      "id": 1672903651,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "UNIRIO",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "58",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2225105,
+          -22.9652738
+        ],
+        "type": "Point"
+      },
+      "id": 1701761169,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pacheco Leão",
+        "operator": "BikeRio",
+        "ref": "36",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1938074,
+          -22.9765348
+        ],
+        "type": "Point"
+      },
+      "id": 1765091206,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Cantagalo",
+        "operator": "BikeRio",
+        "ref": "01",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2282748,
+          -22.9860071
+        ],
+        "type": "Point"
+      },
+      "id": 1912281840,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Cazuza",
+        "operator": "BikeRio",
+        "ref": "28",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1752875,
+          -22.9116945
+        ],
+        "type": "Point"
+      },
+      "id": 1981177106,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Cinelândia",
+        "operator": "BikeRio",
+        "ref": "59",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1726369,
+          -22.9027301
+        ],
+        "type": "Point"
+      },
+      "id": 1981180754,
+      "properties": {
+        "addr:housenumber": "s/n",
+        "addr:street": "Praça XV",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "layer": "1",
+        "name": "Praça XV",
+        "network": "BikeRio",
+        "ref": "60",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1854852,
+          -22.9331324
+        ],
+        "type": "Point"
+      },
+      "id": 1981184140,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Pereira da Silva",
+        "operator": "BikeRio",
+        "ref": "41",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1916992,
+          -22.9565236
+        ],
+        "type": "Point"
+      },
+      "id": 2000100468,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Furnas",
+        "operator": "BikeRio",
+        "ref": "52",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2280762,
+          -22.965516
+        ],
+        "type": "Point"
+      },
+      "id": 2012410884,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pacheco Leão - Horto",
+        "operator": "BikeRio",
+        "ref": "38",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1777069,
+          -22.9558075
+        ],
+        "type": "Point"
+      },
+      "id": 2012413009,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Rio Sul",
+        "operator": "BikeRio",
+        "ref": "50",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1843032,
+          -22.951085
+        ],
+        "type": "Point"
+      },
+      "id": 2012414426,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Metrô Botafogo",
+        "operator": "BikeRio",
+        "ref": "48",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1823529,
+          -22.952394
+        ],
+        "type": "Point"
+      },
+      "id": 2012416375,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Rua da Passagem",
+        "operator": "BikeRio",
+        "ref": "54",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1826447,
+          -22.9470991
+        ],
+        "type": "Point"
+      },
+      "id": 2012417266,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Botafogo Praia Shopping",
+        "operator": "BikeRio",
+        "ref": "49",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1867755,
+          -22.9521568
+        ],
+        "type": "Point"
+      },
+      "id": 2014139053,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Voluntários da Pátria",
+        "operator": "BikeRio",
+        "ref": "55",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2096543,
+          -22.9629265
+        ],
+        "type": "Point"
+      },
+      "id": 2014187944,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Lagoa - Vasco da Gama",
+        "operator": "BikeRio",
+        "ref": "37",
+        "source": "survey",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.225645,
+          -22.9730849
+        ],
+        "type": "Point"
+      },
+      "id": 2014580269,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Baixo Gávea",
+        "operator": "BikeRio",
+        "ref": "34",
+        "source": "survey",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2263835,
+          -22.9777767
+        ],
+        "type": "Point"
+      },
+      "id": 2014581703,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça Sibélius",
+        "operator": "BikeRio",
+        "ref": "30",
+        "source": "survey",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2173106,
+          -22.9680489
+        ],
+        "type": "Point"
+      },
+      "id": 2015485999,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Borges de Medeiros",
+        "operator": "BikeRio",
+        "ref": "11",
+        "source": "survey",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2025909,
+          -22.9605009
+        ],
+        "type": "Point"
+      },
+      "id": 2015487178,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Humaitá",
+        "operator": "BikeRio",
+        "ref": "17",
+        "website": "http://www.mobilicidade.com.br/bikerio.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3401007,
+          -22.8702708
+        ],
+        "type": "Point"
+      },
+      "id": 2096963696,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Soares Caldeira",
+        "operator": "BikeRio",
+        "ref": "401",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3411673,
+          -22.8683826
+        ],
+        "type": "Point"
+      },
+      "id": 2096963966,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Quadriciclo do Pinel",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3412044,
+          -22.8682569
+        ],
+        "type": "Point"
+      },
+      "id": 2096963988,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Manoel Marques",
+        "operator": "BikeRio",
+        "ref": "402",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.34682,
+          -22.862001
+        ],
+        "type": "Point"
+      },
+      "id": 2096965425,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bernardino de Andrade",
+        "operator": "BikeRio",
+        "ref": "404",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3463535,
+          -22.8618261
+        ],
+        "type": "Point"
+      },
+      "id": 2096965589,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Quadriciclo do Pinel",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1753266,
+          -22.961954
+        ],
+        "type": "Point"
+      },
+      "id": 2170235789,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Túnel Novo",
+        "operator": "BikeRio",
+        "ref": "15",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2167933,
+          -22.9720225
+        ],
+        "type": "Point"
+      },
+      "id": 2182332437,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2162934,
+          -22.9727198
+        ],
+        "type": "Point"
+      },
+      "id": 2182332457,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "note": "Foldable Bicycles",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2171828,
+          -22.9725187
+        ],
+        "type": "Point"
+      },
+      "id": 2182333000,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2167016,
+          -22.9725132
+        ],
+        "type": "Point"
+      },
+      "id": 2182333100,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Obstaklo Trikes",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2123608,
+          -22.9801922
+        ],
+        "type": "Point"
+      },
+      "id": 2182536303,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Caiçaras",
+        "operator": "BikeRio",
+        "ref": "31",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1969557,
+          -22.9538829
+        ],
+        "type": "Point"
+      },
+      "id": 2322559938,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Cobal",
+        "operator": "BikeRio",
+        "ref": "47",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1789332,
+          -22.9413878
+        ],
+        "type": "Point"
+      },
+      "id": 2359476686,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Marquês de Abrantes",
+        "operator": "BikeRio",
+        "ref": "53",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1708519,
+          -22.9387569
+        ],
+        "type": "Point"
+      },
+      "id": 2359477299,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Morro da Viúva",
+        "operator": "BikeRio",
+        "ref": "44",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1924005,
+          -22.9503041
+        ],
+        "type": "Point"
+      },
+      "id": 2359479513,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Santa Marta",
+        "operator": "BikeRio",
+        "ref": "51",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2075712,
+          -22.9620186
+        ],
+        "type": "Point"
+      },
+      "id": 2359480195,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Maria Angélica",
+        "operator": "BikeRio",
+        "ref": "35",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2055544,
+          -22.9695808
+        ],
+        "type": "Point"
+      },
+      "id": 2359481402,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Epitácio Pessoa 4224",
+        "operator": "BikeRio",
+        "ref": "33",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2009193,
+          -22.9787275
+        ],
+        "type": "Point"
+      },
+      "id": 2359482312,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Epitácio Pessoa",
+        "operator": "BikeRio",
+        "ref": "12",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2070125,
+          -22.9808808
+        ],
+        "type": "Point"
+      },
+      "id": 2359482534,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Maria Quitéria",
+        "operator": "BikeRio",
+        "ref": "13",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2278425,
+          -22.975467
+        ],
+        "type": "Point"
+      },
+      "id": 2362462047,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Shopping da Gávea",
+        "operator": "BikeRio",
+        "ref": "16",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.229525,
+          -22.978856
+        ],
+        "type": "Point"
+      },
+      "id": 2362466422,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Terminal PUC",
+        "operator": "BikeRio",
+        "ref": "14",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2513876,
+          -22.9922024
+        ],
+        "type": "Point"
+      },
+      "id": 2362473627,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo do Boiadeiro",
+        "operator": "BikeRio",
+        "ref": "43",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.223956,
+          -22.9799108
+        ],
+        "type": "Point"
+      },
+      "id": 2362497362,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Memória",
+        "operator": "BikeRio",
+        "ref": "18",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2210169,
+          -22.9812733
+        ],
+        "type": "Point"
+      },
+      "id": 2362501773,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Cine Leblon",
+        "operator": "BikeRio",
+        "ref": "29",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2263198,
+          -22.9876787
+        ],
+        "type": "Point"
+      },
+      "id": 2362506902,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Visconde de Albuquerque",
+        "operator": "BikeRio",
+        "ref": "27",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2209553,
+          -22.9866194
+        ],
+        "type": "Point"
+      },
+      "id": 2362513050,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "José Linhares",
+        "operator": "BikeRio",
+        "ref": "19",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1952247,
+          -22.9820464
+        ],
+        "type": "Point"
+      },
+      "id": 2362533397,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sá Ferreira",
+        "operator": "BikeRio",
+        "ref": "21",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1885596,
+          -22.9731616
+        ],
+        "type": "Point"
+      },
+      "id": 2362549175,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Dias da Rocha",
+        "operator": "BikeRio",
+        "ref": "22",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.183547,
+          -22.9687237
+        ],
+        "type": "Point"
+      },
+      "id": 2362550175,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Serzedelo Correa",
+        "operator": "BikeRio",
+        "ref": "23",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1783783,
+          -22.9675755
+        ],
+        "type": "Point"
+      },
+      "id": 2362550607,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Copacabana Palace",
+        "operator": "BikeRio",
+        "ref": "20",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2025158,
+          -22.9740151
+        ],
+        "type": "Point"
+      },
+      "id": 2649791044,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1787199,
+          -22.9138935
+        ],
+        "type": "Point"
+      },
+      "id": 2752865552,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Sala Cecília Meireles",
+        "network": "BikeRio",
+        "ref": "145",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1829877,
+          -22.9126458
+        ],
+        "type": "Point"
+      },
+      "id": 2752865574,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Gomes Freire",
+        "network": "BikeRio",
+        "ref": "148",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1833339,
+          -22.9092963
+        ],
+        "type": "Point"
+      },
+      "id": 2752865580,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "13",
+        "name": "Lavradio",
+        "network": "BikeRio",
+        "ref": "143",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1821624,
+          -22.9068938
+        ],
+        "type": "Point"
+      },
+      "id": 2752865587,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça Tiradentes",
+        "network": "BikeRio",
+        "ref": "141",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1898779,
+          -22.9074914
+        ],
+        "type": "Point"
+      },
+      "id": 2752865603,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça da República",
+        "network": "BikeRio",
+        "ref": "153",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1827655,
+          -22.9021275
+        ],
+        "type": "Point"
+      },
+      "id": 2752865640,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Banco Central",
+        "network": "BikeRio",
+        "ref": "135",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1868851,
+          -22.8964294
+        ],
+        "type": "Point"
+      },
+      "id": 2752865656,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Barão de Tefé",
+        "network": "BikeRio",
+        "ref": "133",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1822635,
+          -22.8971115
+        ],
+        "type": "Point"
+      },
+      "id": 2752865668,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "MAR",
+        "network": "BikeRio",
+        "ref": "132",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1782306,
+          -22.9030829
+        ],
+        "type": "Point"
+      },
+      "id": 2752865692,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rosário",
+        "network": "BikeRio",
+        "ref": "137",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1765617,
+          -22.903948
+        ],
+        "type": "Point"
+      },
+      "id": 2752865708,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Quitanda",
+        "network": "BikeRio",
+        "ref": "127",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1778485,
+          -22.9074281
+        ],
+        "type": "Point"
+      },
+      "id": 2752892907,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Carioca",
+        "network": "BikeRio",
+        "ref": "142",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1758288,
+          -22.9058691
+        ],
+        "type": "Point"
+      },
+      "id": 2752892911,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Buraco do Lume",
+        "network": "BikeRio",
+        "ref": "125",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.175044,
+          -22.904939
+        ],
+        "type": "Point"
+      },
+      "id": 2752892916,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Menezes Côrtes",
+        "network": "BikeRio",
+        "ref": "126",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1736308,
+          -22.9059008
+        ],
+        "type": "Point"
+      },
+      "id": 2752892920,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Nilo Peçanha",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1751512,
+          -22.9075478
+        ],
+        "type": "Point"
+      },
+      "id": 2752892924,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Almirante Barroso",
+        "network": "BikeRio",
+        "ref": "123",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1718236,
+          -22.9056004
+        ],
+        "type": "Point"
+      },
+      "id": 2752892930,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Fórum",
+        "network": "BikeRio",
+        "ref": "122",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1703743,
+          -22.9087293
+        ],
+        "type": "Point"
+      },
+      "id": 2752892953,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Churchil",
+        "network": "BikeRio",
+        "ref": "121",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.171846,
+          -22.9103957
+        ],
+        "type": "Point"
+      },
+      "id": 2752892958,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Maison de France",
+        "network": "BikeRio",
+        "ref": "120",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1673031,
+          -22.9104975
+        ],
+        "type": "Point"
+      },
+      "id": 2752892963,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Aeroporto Santos Dumont",
+        "network": "BikeRio",
+        "ref": "166",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1721485,
+          -22.9127377
+        ],
+        "type": "Point"
+      },
+      "id": 2752892968,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "MAM",
+        "network": "BikeRio",
+        "ref": "119",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1860952,
+          -22.9436625
+        ],
+        "type": "Point"
+      },
+      "id": 2857242402,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Assunção",
+        "network": "BikeRio",
+        "ref": "80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1771937,
+          -22.9234784
+        ],
+        "type": "Point"
+      },
+      "id": 2857263301,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Rua do Catete",
+        "network": "BikeRio",
+        "ref": "61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1845398,
+          -22.9107181
+        ],
+        "type": "Point"
+      },
+      "id": 2941415468,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Relação",
+        "network": "BikeRio",
+        "ref": "152",
+        "website": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.221601,
+          -22.9218337
+        ],
+        "type": "Point"
+      },
+      "id": 3054537094,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Segunda Feira",
+        "network": "BikeRio",
+        "note": "Localização aproximada, pendente de confirmação visual.",
+        "operator": "Mobilicidade",
+        "ref": "177",
+        "source": "http://www.movesamba.com.br/bikerio/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1912106,
+          -22.9640531
+        ],
+        "type": "Point"
+      },
+      "id": 3070809564,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Túnel Velho",
+        "network": "BikeRio",
+        "ref": "101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1831012,
+          -22.9656277
+        ],
+        "type": "Point"
+      },
+      "id": 3070821702,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Tonelero",
+        "network": "BikeRio",
+        "ref": "100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1757829,
+          -22.9647977
+        ],
+        "type": "Point"
+      },
+      "id": 3070827898,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça do Lido",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "99"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1772419,
+          -22.9562214
+        ],
+        "type": "Point"
+      },
+      "id": 3070840899,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Lauro Muller",
+        "network": "BikeRio",
+        "ref": "89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1860085,
+          -22.9493252
+        ],
+        "type": "Point"
+      },
+      "id": 3070948170,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "São Clemente",
+        "network": "BikeRio",
+        "ref": "81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1841898,
+          -22.9488563
+        ],
+        "type": "Point"
+      },
+      "id": 3071000550,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Muniz Barreto",
+        "network": "BikeRio",
+        "ref": "79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1810982,
+          -22.9488276
+        ],
+        "type": "Point"
+      },
+      "id": 3071002848,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Mourisco Mar",
+        "network": "BikeRio",
+        "ref": "82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1839762,
+          -22.9452665
+        ],
+        "type": "Point"
+      },
+      "id": 3071008479,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Joia Valansi",
+        "network": "BikeRio",
+        "ref": "78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1937336,
+          -22.9386226
+        ],
+        "type": "Point"
+      },
+      "id": 3071029151,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alegrete",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1807898,
+          -22.9433255
+        ],
+        "type": "Point"
+      },
+      "id": 3071031211,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Edifício Argentina",
+        "network": "BikeRio",
+        "ref": "77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1771679,
+          -22.9421793
+        ],
+        "type": "Point"
+      },
+      "id": 3071055362,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Nicarágua",
+        "network": "BikeRio",
+        "ref": "76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1738962,
+          -22.9389163
+        ],
+        "type": "Point"
+      },
+      "id": 3071072336,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Oswaldo Cruz",
+        "network": "BikeRio",
+        "ref": "75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.189962,
+          -22.9366133
+        ],
+        "type": "Point"
+      },
+      "id": 3071076730,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sebastião Lacerda",
+        "network": "BikeRio",
+        "ref": "68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1979849,
+          -22.9406465
+        ],
+        "type": "Point"
+      },
+      "id": 3071083426,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça São Judas Tadeu",
+        "network": "BikeRio",
+        "ref": "71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1792567,
+          -22.928528
+        ],
+        "type": "Point"
+      },
+      "id": 3071091278,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Artur Bernardes",
+        "network": "BikeRio",
+        "ref": "65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1765267,
+          -22.9269323
+        ],
+        "type": "Point"
+      },
+      "id": 3071100613,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Palácio do Catete",
+        "network": "BikeRio",
+        "ref": "64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1745583,
+          -22.9206992
+        ],
+        "type": "Point"
+      },
+      "id": 3071119842,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça Luís de Camões",
+        "network": "BikeRio",
+        "ref": "63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1767575,
+          -22.9201078
+        ],
+        "type": "Point"
+      },
+      "id": 3071122714,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Glória",
+        "network": "BikeRio",
+        "operator": "BikeRio",
+        "ref": "118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1808267,
+          -22.9126543
+        ],
+        "type": "Point"
+      },
+      "id": 3071126282,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Circo Voador",
+        "network": "BikeRio",
+        "ref": "146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1784521,
+          -22.9097675
+        ],
+        "type": "Point"
+      },
+      "id": 3071142447,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estação de Bondes",
+        "network": "BikeRio",
+        "ref": "144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1760948,
+          -22.9018551
+        ],
+        "type": "Point"
+      },
+      "id": 3071143915,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Primeiro de Março",
+        "network": "BikeRio",
+        "ref": "128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1788133,
+          -22.9055784
+        ],
+        "type": "Point"
+      },
+      "id": 3071143984,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sete de Setembro",
+        "network": "BikeRio",
+        "ref": "138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1914576,
+          -22.9046489
+        ],
+        "type": "Point"
+      },
+      "id": 3071289260,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Procópio Ferreira",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1946052,
+          -22.9066699
+        ],
+        "type": "Point"
+      },
+      "id": 3071289639,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Santana",
+        "network": "BikeRio",
+        "ref": "169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1980257,
+          -22.9120127
+        ],
+        "type": "Point"
+      },
+      "id": 3071298336,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Coronel Castelo Branco",
+        "network": "BikeRio",
+        "ref": "173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2056425,
+          -22.9141139
+        ],
+        "type": "Point"
+      },
+      "id": 3071328688,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estácio de Sá",
+        "network": "BikeRio",
+        "ref": "174"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2247855,
+          -22.9207027
+        ],
+        "type": "Point"
+      },
+      "id": 3071333534,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Metrô São Francisco Xavier",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2335709,
+          -22.9193591
+        ],
+        "type": "Point"
+      },
+      "id": 3071333555,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "13",
+        "name": "Varnhagem",
+        "network": "BikeRio",
+        "ref": "180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2396323,
+          -22.9320444
+        ],
+        "type": "Point"
+      },
+      "id": 3071335672,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Uruguai",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2428621,
+          -22.9319702
+        ],
+        "type": "Point"
+      },
+      "id": 3071336333,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Xavier de Brito",
+        "network": "BikeRio",
+        "ref": "188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2056198,
+          -22.9105032
+        ],
+        "type": "Point"
+      },
+      "id": 3120543529,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Cidade Nova",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1802729,
+          -22.9209856
+        ],
+        "type": "Point"
+      },
+      "id": 3120557069,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Beneficência Portuguesa",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1784227,
+          -22.9385513
+        ],
+        "type": "Point"
+      },
+      "id": 3120566512,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Metrô Flamengo",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1625282,
+          -22.9483189
+        ],
+        "type": "Point"
+      },
+      "id": 3120579730,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "IED Urca",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2002093,
+          -22.975668
+        ],
+        "type": "Point"
+      },
+      "id": 3120592137,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Parque da Catacumba",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2192351,
+          -22.9665938
+        ],
+        "type": "Point"
+      },
+      "id": 3120907345,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jardim Botânico",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1802158,
+          -22.9055612
+        ],
+        "type": "Point"
+      },
+      "id": 3120921312,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo de São Francisco",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2326678,
+          -22.9244648
+        ],
+        "type": "Point"
+      },
+      "id": 3121105141,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Saens Peña",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2345191,
+          -22.922983
+        ],
+        "type": "Point"
+      },
+      "id": 3121116355,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Shopping Tijuca",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "183"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2261038,
+          -22.9124378
+        ],
+        "type": "Point"
+      },
+      "id": 3121191395,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Mata Machado",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "195"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2339123,
+          -22.9123785
+        ],
+        "type": "Point"
+      },
+      "id": 3121216473,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estádio Célio de Barros",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2220924,
+          -22.9124476
+        ],
+        "type": "Point"
+      },
+      "id": 3148315899,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Morais e Silva",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2215881,
+          -22.9158422
+        ],
+        "type": "Point"
+      },
+      "id": 3148320712,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Gafrée e Guinle",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2150865,
+          -22.9121413
+        ],
+        "type": "Point"
+      },
+      "id": 3148350412,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça da Bandeira",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.212254,
+          -22.9156569
+        ],
+        "type": "Point"
+      },
+      "id": 3148350670,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça da Medalha Milagrosa",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "176"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.207005,
+          -22.9130727
+        ],
+        "type": "Point"
+      },
+      "id": 3148352341,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Centro de Convenções",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "174"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1906006,
+          -22.9042179
+        ],
+        "type": "Point"
+      },
+      "id": 3148354861,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Central do Brasil",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1919524,
+          -22.8958406
+        ],
+        "type": "Point"
+      },
+      "id": 3148357341,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça da Harmonia",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1809989,
+          -22.9001189
+        ],
+        "type": "Point"
+      },
+      "id": 3148362282,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Largo de Santa Rita",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "131"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1775255,
+          -22.9003734
+        ],
+        "type": "Point"
+      },
+      "id": 3148364029,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça Pio X",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1906689,
+          -22.9817491
+        ],
+        "type": "Point"
+      },
+      "id": 3148373741,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Souza Lima",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1987997,
+          -22.9571356
+        ],
+        "type": "Point"
+      },
+      "id": 3148379479,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Viúva Lacerda",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2153252,
+          -22.9857588
+        ],
+        "type": "Point"
+      },
+      "id": 3148386504,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Jardim de Alah",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2437855,
+          -22.9200753
+        ],
+        "type": "Point"
+      },
+      "id": 3163183218,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Maxwell",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2513467,
+          -22.9162707
+        ],
+        "type": "Point"
+      },
+      "id": 3163325572,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça Barão de Drumont",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "192"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2009283,
+          -22.9099528
+        ],
+        "type": "Point"
+      },
+      "id": 3163350831,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Metrô Praça XI",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1822286,
+          -22.9026233
+        ],
+        "type": "Point"
+      },
+      "id": 3163360739,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Uruguaiana",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1719827,
+          -22.9225527
+        ],
+        "type": "Point"
+      },
+      "id": 3163380707,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Hotel Glória",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1929595,
+          -22.9540287
+        ],
+        "type": "Point"
+      },
+      "id": 3163401075,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Real Grandeza",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2028108,
+          -22.9812065
+        ],
+        "type": "Point"
+      },
+      "id": 3163412423,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Vinícius de Moraes",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2147189,
+          -22.9637466
+        ],
+        "type": "Point"
+      },
+      "id": 3163624889,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Hospital da Lagoa",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1804928,
+          -22.9338044
+        ],
+        "type": "Point"
+      },
+      "id": 3188966454,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça São Salvador",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3017193,
+          -23.0147028
+        ],
+        "type": "Point"
+      },
+      "id": 3189005660,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praia do Pepê",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "201"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3482635,
+          -23.0099979
+        ],
+        "type": "Point"
+      },
+      "id": 3189428346,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Golden Green",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3500686,
+          -23.0056379
+        ],
+        "type": "Point"
+      },
+      "id": 3189443685,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estácio",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "228"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3525094,
+          -23.002532
+        ],
+        "type": "Point"
+      },
+      "id": 3189448796,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Veiga de Almeida",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "229"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3516623,
+          -23.0009156
+        ],
+        "type": "Point"
+      },
+      "id": 3189508489,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Esplanada da Barra",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3682637,
+          -23.0011709
+        ],
+        "type": "Point"
+      },
+      "id": 3189518062,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Terminal Alvorada-Oeste",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2347027,
+          -22.9168386
+        ],
+        "type": "Point"
+      },
+      "id": 3243245383,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Niterói",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2401502,
+          -22.914793
+        ],
+        "type": "Point"
+      },
+      "id": 3243245384,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "BLV. 28 de Setembro 157",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2182183,
+          -22.9184212
+        ],
+        "type": "Point"
+      },
+      "id": 3243248495,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Afonso Pena",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2022412,
+          -22.8979309
+        ],
+        "type": "Point"
+      },
+      "id": 3243263070,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Santo Cristo",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1874261,
+          -22.9115262
+        ],
+        "type": "Point"
+      },
+      "id": 3243288832,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça da Cruz Vermelha",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1852246,
+          -22.9053885
+        ],
+        "type": "Point"
+      },
+      "id": 3243294105,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Buenos Aires",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1898271,
+          -22.9050847
+        ],
+        "type": "Point"
+      },
+      "id": 3267418542,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Campo de Santana",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1878929,
+          -22.9745173
+        ],
+        "type": "Point"
+      },
+      "id": 3267448999,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Constante Ramos",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1962051,
+          -22.9587825
+        ],
+        "type": "Point"
+      },
+      "id": 3267452374,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pinheiro Guimarães",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.21169,
+          -22.961293
+        ],
+        "type": "Point"
+      },
+      "id": 3267493095,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Parque Lage",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2035725,
+          -22.9654685
+        ],
+        "type": "Point"
+      },
+      "id": 3267503469,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Epitácio Pessoa 4794",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2266561,
+          -22.9835365
+        ],
+        "type": "Point"
+      },
+      "id": 3267534117,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Dias Ferreira",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2173455,
+          -22.972326
+        ],
+        "type": "Point"
+      },
+      "id": 3267561166,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Parque dos Patins",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2979704,
+          -23.0144094
+        ],
+        "type": "Point"
+      },
+      "id": 3267572931,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Quebra Mar",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3050516,
+          -23.0125625
+        ],
+        "type": "Point"
+      },
+      "id": 3267580868,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Olegário Maciel",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3168297,
+          -23.0072049
+        ],
+        "type": "Point"
+      },
+      "id": 3267605962,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Professor Souza Araújo",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3172548,
+          -23.0127947
+        ],
+        "type": "Point"
+      },
+      "id": 3267635438,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Praça do Ó",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3188461,
+          -23.0071934
+        ],
+        "type": "Point"
+      },
+      "id": 3267642900,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Grande Canal",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "224"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3215381,
+          -23.0119554
+        ],
+        "type": "Point"
+      },
+      "id": 3267657835,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Windsor Barra",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3261162,
+          -23.011166
+        ],
+        "type": "Point"
+      },
+      "id": 3267674761,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Radisson",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3302585,
+          -23.0106454
+        ],
+        "type": "Point"
+      },
+      "id": 3267695088,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Barra Summer Dream",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.328698,
+          -23.0018092
+        ],
+        "type": "Point"
+      },
+      "id": 3267711454,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Athaydeville",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3367231,
+          -23.0008422
+        ],
+        "type": "Point"
+      },
+      "id": 3275342974,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Guanabara",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3421143,
+          -23.0101672
+        ],
+        "type": "Point"
+      },
+      "id": 3275349561,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Lúcio Costa 4500",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3476638,
+          -23.0005632
+        ],
+        "type": "Point"
+      },
+      "id": 3275372649,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Barra Business Center",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3548347,
+          -22.9974189
+        ],
+        "type": "Point"
+      },
+      "id": 3276747961,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Fórum da Barra",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3586086,
+          -23.000446
+        ],
+        "type": "Point"
+      },
+      "id": 3276763039,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Zoila de Abreu",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3606471,
+          -22.9999571
+        ],
+        "type": "Point"
+      },
+      "id": 3276773876,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "NYC Center",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3654348,
+          -22.9952832
+        ],
+        "type": "Point"
+      },
+      "id": 3276824744,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Hospital Lourenço Jorge",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3662797,
+          -22.9925203
+        ],
+        "type": "Point"
+      },
+      "id": 3276836207,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Centro Metropolitano",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "247"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3638523,
+          -23.0009348
+        ],
+        "type": "Point"
+      },
+      "id": 3276846364,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Terminal Alvorada Leste",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "243"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3550636,
+          -23.0100855
+        ],
+        "type": "Point"
+      },
+      "id": 3276851111,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Lúcio Costa 5750",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3664791,
+          -23.0047355
+        ],
+        "type": "Point"
+      },
+      "id": 3276851199,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Dulcídio Cardoso 3080",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3570619,
+          -23.0101645
+        ],
+        "type": "Point"
+      },
+      "id": 3276858121,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Lúcio Costa 6200",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3709048,
+          -23.0107496
+        ],
+        "type": "Point"
+      },
+      "id": 3276864749,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Lúcio Costa 9500",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3732035,
+          -23.0031446
+        ],
+        "type": "Point"
+      },
+      "id": 3280323461,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Olyntho Pillar",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3759045,
+          -23.0036606
+        ],
+        "type": "Point"
+      },
+      "id": 3280329437,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Mandala",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.441039,
+          -23.0098267
+        ],
+        "type": "Point"
+      },
+      "id": 3280355913,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Barra World",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "257"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4430252,
+          -23.0079232
+        ],
+        "type": "Point"
+      },
+      "id": 3280363207,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Salvador Allende BRT",
+        "network": "BikeRio",
+        "note": "Posição aproximada, verificar em campo.",
+        "operator": "Serttel",
+        "ref": "256"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4508172,
+          -23.0133871
+        ],
+        "type": "Point"
+      },
+      "id": 3280390129,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Miguel Osório",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "258"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4578781,
+          -23.0147165
+        ],
+        "type": "Point"
+      },
+      "id": 3280399252,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Restier Gonçalves",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "249"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4674777,
+          -23.0156621
+        ],
+        "type": "Point"
+      },
+      "id": 3280428463,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Benvindo Novaes",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "251"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3149647,
+          -23.0139075
+        ],
+        "type": "Point"
+      },
+      "id": 3284765135,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "General Ivan Raposo",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "212"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3410104,
+          -23.0007748
+        ],
+        "type": "Point"
+      },
+      "id": 3284793117,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Barra Garden",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4567006,
+          -23.0181959
+        ],
+        "type": "Point"
+      },
+      "id": 3286811663,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Gláucio Gil",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "260"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4707246,
+          -23.0220741
+        ],
+        "type": "Point"
+      },
+      "id": 3286868300,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque Chico Mendes",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "254"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4689972,
+          -23.0303053
+        ],
+        "type": "Point"
+      },
+      "id": 3286869880,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pontal",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "255"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4633234,
+          -23.027217
+        ],
+        "type": "Point"
+      },
+      "id": 3288448371,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Lúcio Costa 17194",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "252"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4570497,
+          -23.0246991
+        ],
+        "type": "Point"
+      },
+      "id": 3288491727,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Gláucio Gil Praia",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "250"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4494108,
+          -23.0228526
+        ],
+        "type": "Point"
+      },
+      "id": 3288519826,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Posto 9 Barra",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "248"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1733631,
+          -22.9539972
+        ],
+        "type": "Point"
+      },
+      "id": 3288677721,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Iate Clube",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1888478,
+          -22.9571483
+        ],
+        "type": "Point"
+      },
+      "id": 3288728764,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "General Polidoro",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6669239,
+          -23.526324
+        ],
+        "type": "Point"
+      },
+      "id": 339680757,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Metro Barra Funda"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6554111,
+          -23.5342672
+        ],
+        "type": "Point"
+      },
+      "id": 339682304,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6242717,
+          -23.501537
+        ],
+        "type": "Point"
+      },
+      "id": 339686566,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5648631,
+          -23.5389513
+        ],
+        "type": "Point"
+      },
+      "id": 462747754,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7132329,
+          -23.5642105
+        ],
+        "type": "Point"
+      },
+      "id": 1731971676,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Pedalusp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5033245,
+          -23.4859894
+        ],
+        "type": "Point"
+      },
+      "id": 2206234771,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bicicletário da estação USP Leste"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6365048,
+          -23.5598553
+        ],
+        "type": "Point"
+      },
+      "id": 2647326572,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6427872,
+          -23.5788106
+        ],
+        "type": "Point"
+      },
+      "id": 2860552968,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:postcode": "s",
+        "addr:street": "Rua Eça de Queirós",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Eça de Queiroz",
+        "network": "Bike Sampa",
+        "note": "em frente ao número 187",
+        "operator": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6630366,
+          -23.5592808
+        ],
+        "type": "Point"
+      },
+      "id": 2862035166,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "807",
+        "addr:street": "Rua Haddock Lobo",
+        "addr:suburb": "Cerqueira César",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Teatro Renaissance",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "23",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6905815,
+          -23.5478481
+        ],
+        "type": "Point"
+      },
+      "id": 2869109082,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Vila Madalena",
+        "operator": "Bike Sampa",
+        "ref": "110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6923887,
+          -23.6082435
+        ],
+        "type": "Point"
+      },
+      "id": 3094480276,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa Estação 97 - Lions Monções",
+        "network": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6832269,
+          -23.6018604
+        ],
+        "type": "Point"
+      },
+      "id": 3094483041,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bike Sampa Estação 94 - Bandeirantes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6769961,
+          -23.5985914
+        ],
+        "type": "Point"
+      },
+      "id": 3094483042,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bike Sampa Estação 62 - Faculdade Insper"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6755424,
+          -23.6009632
+        ],
+        "type": "Point"
+      },
+      "id": 3094483043,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bike Sampa Estação 61 - Faculdade Anhembi Morumbi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5761566,
+          -23.5298546
+        ],
+        "type": "Point"
+      },
+      "id": 3296596381,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "219",
+        "addr:street": "Rua Pitangui",
+        "addr:suburb": "Tatuapé",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque do Piqueri",
+        "operator": "Bike Sampa",
+        "ref": "200",
+        "source": "BikeSampa App"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7012435,
+          -23.5667453
+        ],
+        "type": "Point"
+      },
+      "id": 3296603056,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Pinheiros",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "wikipedia": "pt:bicicletario"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.575423,
+          -23.5330977
+        ],
+        "type": "Point"
+      },
+      "id": 3296648971,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "877 B",
+        "addr:street": "Rua Maria Eleonora",
+        "addr:suburb": "Tatuapé",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Tuiuti",
+        "operator": "Bike Sampa",
+        "ref": "199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5755399,
+          -23.5388519
+        ],
+        "type": "Point"
+      },
+      "id": 3296653333,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1525",
+        "addr:street": "Rua Tuiuti",
+        "addr:suburb": "Tatuapé",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Boulevard Tatuapé",
+        "operator": "Bike Sampa",
+        "ref": "196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5736653,
+          -23.5367611
+        ],
+        "type": "Point"
+      },
+      "id": 3296656399,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "221",
+        "addr:street": "Rua Teixeira de Melo",
+        "addr:suburb": "Tatuapé",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "SENAI",
+        "operator": "Bike Sampa",
+        "ref": "197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6604821,
+          -23.5938173
+        ],
+        "type": "Point"
+      },
+      "id": 3296658993,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "882",
+        "addr:street": "Avenida IV Centenario",
+        "addr:suburb": "Jardim Luzitânia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque Ibirapuera - Portao 06",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "46",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6907618,
+          -23.5611833
+        ],
+        "type": "Point"
+      },
+      "id": 3296849109,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "770",
+        "addr:street": "Rua Simão Álvares",
+        "addr:suburb": "Pinheiros",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Simão Álvares",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "108",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6569495,
+          -23.5643521
+        ],
+        "type": "Point"
+      },
+      "id": 3296862071,
+      "properties": {
+        "addr:street": "Alameda Jaú, em frente à Praça Alexandre Gusmão",
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Parque Trianon",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "21",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6598437,
+          -23.5616906
+        ],
+        "type": "Point"
+      },
+      "id": 3296871354,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1278",
+        "addr:street": "Alameda Jaú",
+        "addr:suburb": "Cerqueira Cesar",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alliance Francaise",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "22",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6468286,
+          -23.592197
+        ],
+        "type": "Point"
+      },
+      "id": 3296873253,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Largo Senador Raul Cardoso",
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Cinemateca",
+        "network": "Bike Sampa",
+        "note": "Em frente a portaria no. 1 da Cinemateca.",
+        "operator": "Bike Sampa",
+        "ref": "2",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6479617,
+          -23.5871658
+        ],
+        "type": "Point"
+      },
+      "id": 3296873254,
+      "properties": {
+        "addr:street": "Rua Morgado de Matheus",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Instituto Biológico",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 652.",
+        "operator": "Bike Sampa",
+        "ref": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6428314,
+          -23.5929796
+        ],
+        "type": "Point"
+      },
+      "id": 3296873255,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Capitão Macedo",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Capitão Macedo",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 277.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6403766,
+          -23.5895735
+        ],
+        "type": "Point"
+      },
+      "id": 3296873256,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Doutor Álvaro Alvim",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Belas Artes",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 76.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6432091,
+          -23.5870009
+        ],
+        "type": "Point"
+      },
+      "id": 3296878371,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Rio Grande",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Rio Grande",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 290.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6650779,
+          -23.6006684
+        ],
+        "type": "Point"
+      },
+      "id": 3296878887,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "456",
+        "addr:street": "Avenida Sabiá",
+        "addr:suburb": "moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Sabia",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "59",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6412354,
+          -23.5863283
+        ],
+        "type": "Point"
+      },
+      "id": 3296881966,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Humberto I",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Humberto I",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 745.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6652868,
+          -23.557748
+        ],
+        "type": "Point"
+      },
+      "id": 3296883221,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2796",
+        "addr:street": "Rua da Consolação",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Consolação",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6443162,
+          -23.5814222
+        ],
+        "type": "Point"
+      },
+      "id": 3296884508,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Pelotas",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sesc Vila Mariana",
+        "network": "Bike Sampa",
+        "note": "em frente ao Shopping Vila Mariana",
+        "operator": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.641288,
+          -23.5812797
+        ],
+        "type": "Point"
+      },
+      "id": 3296887893,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Ambrosina de Macedo",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metrô Ana Rosa",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 44.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6611417,
+          -23.5744363
+        ],
+        "type": "Point"
+      },
+      "id": 3296904880,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "368",
+        "addr:street": "Rua Madre Teodora",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Estados Unidos",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.644244,
+          -23.5750262
+        ],
+        "type": "Point"
+      },
+      "id": 3296909561,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Afonso de Freitas",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Cubatão",
+        "network": "Bike Sampa",
+        "note": "Em frente ao número 239.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.650102,
+          -23.5792397
+        ],
+        "type": "Point"
+      },
+      "id": 3296911506,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Praça Santíssimo Sacramento",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Viaduto Tutóia",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6680939,
+          -23.5621145
+        ],
+        "type": "Point"
+      },
+      "id": 3296917435,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2006",
+        "addr:street": "Rua Bela Cintra",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bela Cintra",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "25",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6743151,
+          -23.6075091
+        ],
+        "type": "Point"
+      },
+      "id": 3296939532,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1648",
+        "addr:street": "Rua Inhambu",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Fernandes de Lima",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "58",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6695888,
+          -23.6040266
+        ],
+        "type": "Point"
+      },
+      "id": 3296939533,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "550",
+        "addr:street": "Rua Rouxinol",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rouxinol",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "57",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.668801,
+          -23.6088422
+        ],
+        "type": "Point"
+      },
+      "id": 3296939534,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "813",
+        "addr:street": "Avenida Cotovia",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Shopping Ibirapuera",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6639862,
+          -23.6151726
+        ],
+        "type": "Point"
+      },
+      "id": 3296939535,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1545",
+        "addr:street": "Alameda dos Aicás",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Carinas",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "55",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6628545,
+          -23.6108583
+        ],
+        "type": "Point"
+      },
+      "id": 3296939536,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "458",
+        "addr:street": "Avenida Iraí",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Universidade Ibirapuera",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "54",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6587287,
+          -23.6126071
+        ],
+        "type": "Point"
+      },
+      "id": 3296951510,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "859",
+        "addr:street": "Alameda Guaramonis",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Aratas",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "53",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6574881,
+          -23.6066589
+        ],
+        "type": "Point"
+      },
+      "id": 3296955556,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "451",
+        "addr:street": "Alameda dos Anapurús",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alameda dos Anapurus",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "52",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6544241,
+          -23.6034622
+        ],
+        "type": "Point"
+      },
+      "id": 3296958088,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "595",
+        "addr:street": "Avenida Indianópolis",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Indianopolis",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "51",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6713634,
+          -23.6011618
+        ],
+        "type": "Point"
+      },
+      "id": 3296958351,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "379",
+        "addr:street": "Rua Graúna",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Grauna",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "60",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6713296,
+          -23.5913909
+        ],
+        "type": "Point"
+      },
+      "id": 3296968765,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "408",
+        "addr:street": "RUA Jacques Felix",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jacques Felix",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "40",
+        "source": "http://www.mobilicidade.com.br/bikesampa",
+        "website": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6748262,
+          -23.5899466
+        ],
+        "type": "Point"
+      },
+      "id": 3296968766,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1182",
+        "addr:street": "Rua do Consorcio",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bandeira Paulista",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "41",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6790041,
+          -23.5915608
+        ],
+        "type": "Point"
+      },
+      "id": 3296968767,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "104",
+        "addr:street": "Rua Comandatuba",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jesuino Cardoso",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "42",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6735422,
+          -23.5950605
+        ],
+        "type": "Point"
+      },
+      "id": 3296968768,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "75E",
+        "addr:street": "Rua Egito",
+        "addr:suburb": "Vila Olimpia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Santa Justina",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "43",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6698963,
+          -23.5962928
+        ],
+        "type": "Point"
+      },
+      "id": 3296968769,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "518",
+        "addr:street": "Rua Gararu",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Diogo Jacome",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "44",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6691588,
+          -23.5940596
+        ],
+        "type": "Point"
+      },
+      "id": 3296968770,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "21",
+        "addr:street": "Praça Pereira Coutinho",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pereira Coutinho",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "45",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6555788,
+          -23.5921211
+        ],
+        "type": "Point"
+      },
+      "id": 3296968771,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "461",
+        "addr:street": "Avenida do Quarto Centenário",
+        "addr:suburb": "Jardim Luzitânia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque Ibirapuera - Portao 05",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "47",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6548698,
+          -23.5943986
+        ],
+        "type": "Point"
+      },
+      "id": 3296968772,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "116",
+        "addr:street": "Largo Mestre de Aviz",
+        "addr:suburb": "Jardim Luzitania",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Ibirapuera",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "48",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6598882,
+          -23.6008016
+        ],
+        "type": "Point"
+      },
+      "id": 3296968773,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "170",
+        "addr:street": "Avenida Açocê",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque das Bicicletas",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "49",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6608536,
+          -23.6041644
+        ],
+        "type": "Point"
+      },
+      "id": 3296968774,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "58",
+        "addr:street": "Avenida Divino Salvador",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "N. Sra. Aparecida",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "50",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6660244,
+          -23.5657525
+        ],
+        "type": "Point"
+      },
+      "id": 3296984988,
+      "properties": {
+        "addr:housenumber": "465",
+        "addr:street": "Rua Oscar Freire",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Oscar Freire",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "26",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6621376,
+          -23.5679304
+        ],
+        "type": "Point"
+      },
+      "id": 3296984989,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "930",
+        "addr:street": "Alameda Casa Branca",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alameda Casa Branca",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "27",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6649244,
+          -23.5703436
+        ],
+        "type": "Point"
+      },
+      "id": 3296984990,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "6",
+        "addr:street": "Rua Canadá",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Canadá",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "28",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6732581,
+          -23.5649859
+        ],
+        "type": "Point"
+      },
+      "id": 3296987028,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:street": "Rua Guadelupe",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Guadalupe",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "29",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6737194,
+          -23.5673363
+        ],
+        "type": "Point"
+      },
+      "id": 3297003293,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "365",
+        "addr:street": "Rua Venezuela",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Brasil",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "30",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6661127,
+          -23.5785514
+        ],
+        "type": "Point"
+      },
+      "id": 3297009506,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "322",
+        "addr:street": "Rua Antonio Bento",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Antonio Bento",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "31",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6674323,
+          -23.5813096
+        ],
+        "type": "Point"
+      },
+      "id": 3297024515,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "507",
+        "addr:street": "Rua General Mena Barreto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Henrique Martins",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "32",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6710694,
+          -23.5795986
+        ],
+        "type": "Point"
+      },
+      "id": 3297056163,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "85",
+        "addr:street": "Rua Pedroso Alvarenga",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Sao Gabriel",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "33",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6722227,
+          -23.5834679
+        ],
+        "type": "Point"
+      },
+      "id": 3297071061,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "149",
+        "addr:street": "Rua Brasília",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Joaquim Floriano",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "34",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6771028,
+          -23.5871508
+        ],
+        "type": "Point"
+      },
+      "id": 3297078591,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "16",
+        "addr:street": "Rua Iaiá",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Joao Cachoeira",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "35",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6937411,
+          -23.5669258
+        ],
+        "type": "Point"
+      },
+      "id": 3297128913,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297445579,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297445580,
+      "properties": {
+        "addr:street": "Rua Umburanas, em frente ao numero 78",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sampa Bike",
+        "network": "Sampa Bike",
+        "operator": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297812270,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297812271,
+      "properties": {
+        "addr:street": "Rua Umburanas, em frente ao numero 78",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sampa Bike",
+        "network": "Sampa Bike",
+        "operator": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5782124,
+          -23.5361397
+        ],
+        "type": "Point"
+      },
+      "id": 3298729123,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "241",
+        "addr:street": "Rua André Vidal",
+        "addr:suburb": "Tatuapé",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "André Vidal",
+        "operator": "Bike Sampa",
+        "ref": "198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6440856,
+          -23.5986225
+        ],
+        "type": "Point"
+      },
+      "id": 3301480510,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "832",
+        "addr:street": "Rua Napoleão de Barros",
+        "addr:suburb": "Vila Clementino",
+        "amenity": "bicycle_rental",
+        "capacity": "9",
+        "name": "BikeSampa",
+        "network": "BikeSampa",
+        "operator": "Sertel/Itaú"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.677175,
+          -23.5738887
+        ],
+        "type": "Point"
+      },
+      "id": 3321819958,
+      "properties": {
+        "addr:housenumber": "310",
+        "addr:street": "Rua Áustria",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "website": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6797016,
+          -23.577249
+        ],
+        "type": "Point"
+      },
+      "id": 3321827239,
+      "properties": {
+        "addr:housenumber": "308",
+        "addr:street": "Rua Suécia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.533085,
+          -13.0041585
+        ],
+        "type": "Point"
+      },
+      "id": 2467673285,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Porto da Barra",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "04",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.520152,
+          -12.9895498
+        ],
+        "type": "Point"
+      },
+      "id": 2467692504,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Campo Grande",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "01",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.516232,
+          -13.0076341
+        ],
+        "type": "Point"
+      },
+      "id": 2467692505,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jardim Apipema",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "05",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5145046,
+          -12.9772521
+        ],
+        "type": "Point"
+      },
+      "id": 2467692506,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça Castro Alves",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "03",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.515029,
+          -12.9828574
+        ],
+        "type": "Point"
+      },
+      "id": 2467692507,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça da Piedade",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "02",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4679236,
+          -13.0121596
+        ],
+        "type": "Point"
+      },
+      "id": 2518515269,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Amaralina",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "12",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5232444,
+          -13.006116
+        ],
+        "type": "Point"
+      },
+      "id": 2518515270,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Centenário",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "06",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4552682,
+          -13.0026948
+        ],
+        "type": "Point"
+      },
+      "id": 2518515271,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Correios",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "14",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4408249,
+          -12.994723
+        ],
+        "type": "Point"
+      },
+      "id": 2518515272,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jardim de Alah",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "17",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4886259,
+          -13.0136866
+        ],
+        "type": "Point"
+      },
+      "id": 2518515273,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Mariquita",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "11",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.527791,
+          -12.9964744
+        ],
+        "type": "Point"
+      },
+      "id": 2518515274,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Vitória",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "07",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4561744,
+          -13.0058469
+        ],
+        "type": "Point"
+      },
+      "id": 2518515275,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Nossa Senhora da Luz",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "15",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5075513,
+          -13.0112321
+        ],
+        "type": "Point"
+      },
+      "id": 2518515276,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ondina",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "08",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4495752,
+          -12.9967967
+        ],
+        "type": "Point"
+      },
+      "id": 2518515277,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque Costa Azul",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "16",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4899605,
+          -13.0103229
+        ],
+        "type": "Point"
+      },
+      "id": 2518515278,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Salvador, Estação 10",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "10",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.401463,
+          -12.9575391
+        ],
+        "type": "Point"
+      },
+      "id": 2518515279,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pinto de Aguiar",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "20",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4054352,
+          -12.9671741
+        ],
+        "type": "Point"
+      },
+      "id": 2518515280,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praia de Patamares",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "19",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4302174,
+          -12.9689931
+        ],
+        "type": "Point"
+      },
+      "id": 2518515281,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça do Imbuí",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "09",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4626617,
+          -13.0031104
+        ],
+        "type": "Point"
+      },
+      "id": 2518515282,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Ceará",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "13",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5079129,
+          -12.9252538
+        ],
+        "type": "Point"
+      },
+      "id": 2628975064,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Baixa do Bomfim",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "29",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5137539,
+          -12.9316041
+        ],
+        "type": "Point"
+      },
+      "id": 2628975069,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Boa Viagem",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "30",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3965131,
+          -12.9609544
+        ],
+        "type": "Point"
+      },
+      "id": 2628975075,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jaguaribe",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "23",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5060085,
+          -12.9369059
+        ],
+        "type": "Point"
+      },
+      "id": 2628975081,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo de Roma",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "31",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3764511,
+          -12.9525364
+        ],
+        "type": "Point"
+      },
+      "id": 2628975088,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Placafor",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "24",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5080529,
+          -12.9789317
+        ],
+        "type": "Point"
+      },
+      "id": 2628975095,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça do Fórum Ruy Barbosa",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "27",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4388574,
+          -12.9711029
+        ],
+        "type": "Point"
+      },
+      "id": 2628975108,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua dos Colibris",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "22",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4879447,
+          -12.9904798
+        ],
+        "type": "Point"
+      },
+      "id": 2628975114,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Universidade Bahiana",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "25",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5187798,
+          -12.9804217
+        ],
+        "type": "Point"
+      },
+      "id": 2687094131,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bahia Marina",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "36",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5007751,
+          -12.9467375
+        ],
+        "type": "Point"
+      },
+      "id": 2687094134,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Estaçao do Trem",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "32",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4779066,
+          -12.9820578
+        ],
+        "type": "Point"
+      },
+      "id": 2687094135,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Final de Linha de Brotas",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "28",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5065041,
+          -12.921955
+        ],
+        "type": "Point"
+      },
+      "id": 2687094137,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Praça do Divina",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "35",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5010184,
+          -12.9833742
+        ],
+        "type": "Point"
+      },
+      "id": 2687094138,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Solar da Boa Vista",
+        "network": "Bike Salvador",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40627024",
+        "ref": "26",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5079171,
+          -13.01096
+        ],
+        "type": "Point"
+      },
+      "id": 2878161233,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Salvador",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 4003-9892"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4946287,
+          -12.9120411
+        ],
+        "type": "Point"
+      },
+      "id": 2878179410,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Largo da Ribeira",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40039892",
+        "ref": "39",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4935298,
+          -12.9151479
+        ],
+        "type": "Point"
+      },
+      "id": 3066932832,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Estação do Tainheiro",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40039892",
+        "ref": "38",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5020807,
+          -12.9549039
+        ],
+        "type": "Point"
+      },
+      "id": 3066936633,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Ferry Boat",
+        "network": "Bike Salvador",
+        "operator": "Bike Salvador",
+        "ref": "33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4860679,
+          -12.822847
+        ],
+        "type": "Point"
+      },
+      "id": 3268834037,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "São Tomé de Paripe",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40039892",
+        "ref": "25",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4757823,
+          -12.8369094
+        ],
+        "type": "Point"
+      },
+      "id": 3268834038,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Tubarão",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Bike Salvador",
+        "phone": "+55 71 40039892",
+        "ref": "36",
+        "website": "http://www.bikesalvador.com/"
+      },
+      "type": "Feature"
+    }
+  ]
+}

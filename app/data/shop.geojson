@@ -1,0 +1,3533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0710794,
+          -10.9275405
+        ],
+        "type": "Point"
+      },
+      "id": 1072018927,
+      "properties": {
+        "addr:housename": "EdifĂ­cio Auda Porto",
+        "addr:housenumber": "2439",
+        "addr:street": "Avenida GonĂ§alo Rollemberg Leite",
+        "name": "Ecociiclo",
+        "shop": "bicycle",
+        "website": "http://www.ecociiclo.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0664683,
+          -10.969539
+        ],
+        "type": "Point"
+      },
+      "id": 1073183968,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0708912,
+          -10.9110947
+        ],
+        "type": "Point"
+      },
+      "id": 3007865207,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:housenumber": "415",
+        "addr:street": "Rua Mariano Salmeron",
+        "addr:suburb": "Siqueira Campos",
+        "name": "Casa do Ciclista",
+        "repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.casadociclista.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0732067,
+          -10.9094586
+        ],
+        "type": "Point"
+      },
+      "id": 3221751108,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Rua Acre",
+        "addr:suburb": "Siqueira Campos",
+        "name": "Kanija",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8510752,
+          -15.7918197
+        ],
+        "type": "Point"
+      },
+      "id": 2252951234,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8882043,
+          -15.7588565
+        ],
+        "type": "Point"
+      },
+      "id": 2867872022,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:postcode": "70753-040",
+        "addr:street": "CLN 110 Bloco D loja 18",
+        "name": "Cycling Bike Shop",
+        "opening_hours": "Mo-Fr 09:00-19:00;Sa 09:00-15:00",
+        "phone": "+55 61 32740591",
+        "shop": "bicycle",
+        "website": "http://www.cycling.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.923147,
+          -15.8270593
+        ],
+        "type": "Point"
+      },
+      "id": 2867872023,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:street": "CLS 315 Bloco C loja 37",
+        "name": "Commute Bike Studio",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-14:00",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9122492,
+          -15.8190698
+        ],
+        "type": "Point"
+      },
+      "id": 2867872024,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:postcode": "70363-530",
+        "addr:street": "CLS 310 Bloco C lojas 32/34",
+        "name": "Sport Cicle 310",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8802117,
+          -15.7602646
+        ],
+        "type": "Point"
+      },
+      "id": 2882764038,
+      "properties": {
+        "addr:street": "CLN 408",
+        "name": "Biciclopecas",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8969079,
+          -15.7462528
+        ],
+        "type": "Point"
+      },
+      "id": 2894699122,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:place": "CLRN 714 bloco D loja 57",
+        "addr:postcode": "70760-554",
+        "name": "Bike Sport",
+        "shop": "bicycle",
+        "website": "http://www.bikesportbr.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8996473,
+          -15.8194232
+        ],
+        "type": "Point"
+      },
+      "id": 2894699123,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:street": "CLS 208 bloco B loja 22",
+        "name": "Bike Tech Brasília",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
+        "shop": "bicycle",
+        "website": "http://www.biketechbrasilia.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9158036,
+          -15.8311054
+        ],
+        "type": "Point"
+      },
+      "id": 2894699124,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:street": "CLS 214 bloco B loja 22 sobreloja",
+        "name": "Norte Cicle",
+        "shop": "bicycle",
+        "website": "http://nortecicle.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8915583,
+          -15.7460815
+        ],
+        "type": "Point"
+      },
+      "id": 2894699168,
+      "properties": {
+        "addr:street": "CLN 114 bloco B loja 36",
+        "name": "Unibike",
+        "shop": "bicycle",
+        "website": "http://www.unibike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8781845,
+          -15.7663192
+        ],
+        "type": "Point"
+      },
+      "id": 2934591480,
+      "properties": {
+        "addr:postcode": "70847-520",
+        "addr:street": "CLN 407",
+        "name": "Girabike",
+        "phone": "+55 61 30456166",
+        "shop": "bicycle",
+        "website": "http://www.girabike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8490832,
+          -15.7946717
+        ],
+        "type": "Point"
+      },
+      "id": 3021297808,
+      "properties": {
+        "name": "New Bike",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8754039,
+          -15.7796949
+        ],
+        "type": "Point"
+      },
+      "id": 3037052688,
+      "properties": {
+        "addr:city": "Brasília",
+        "addr:street": "CLN 403 Bloco B Loja 33",
+        "addr:suburb": "Asa Norte",
+        "name": "bike'n FIX",
+        "phone": "+55 61 3327-1604",
+        "shop": "bicycle",
+        "website": "http://www.popobrasil.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8830204,
+          -15.7775569
+        ],
+        "type": "Point"
+      },
+      "id": 3069564629,
+      "properties": {
+        "name": "Bike Brothers",
+        "opening_hours": "Mo-Fr 08:00-19:00;Sa 08:00-14:00",
+        "phone": "+55 61 33269170",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8816456,
+          -15.75335
+        ],
+        "type": "Point"
+      },
+      "id": 3222516872,
+      "properties": {
+        "name": "JC Bikes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8998514,
+          -15.7357196
+        ],
+        "type": "Point"
+      },
+      "id": 3223541614,
+      "properties": {
+        "name": "Transforme Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8938513,
+          -15.7404337
+        ],
+        "type": "Point"
+      },
+      "id": 3223541618,
+      "properties": {
+        "name": "Disk Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8888417,
+          -15.7762117
+        ],
+        "type": "Point"
+      },
+      "id": 3250198680,
+      "properties": {
+        "name": "Ciclista Canarinho",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2678432,
+          -25.4237831
+        ],
+        "type": "Point"
+      },
+      "id": 692766520,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "130",
+        "addr:street": "Avenida João Gualberto",
+        "name": "Cicles Jaime",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2593641,
+          -25.4442578
+        ],
+        "type": "Point"
+      },
+      "id": 839605954,
+      "properties": {
+        "name": "Cicles Jaime",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.3323469,
+          -25.4839088
+        ],
+        "type": "Point"
+      },
+      "id": 3032576505,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housename": "Loja 02",
+        "addr:housenumber": "847",
+        "addr:street": "Rua Arnaldo Thá",
+        "name": "New Center Bike",
+        "phone": "(41) 3288-1112",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.3234623,
+          -25.4805107
+        ],
+        "type": "Point"
+      },
+      "id": 3086805369,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "39",
+        "addr:street": "Avenida Frederico Lambertucci",
+        "name": "Cicles Souza",
+        "phone": "41 30397856",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "www.ciclessouza.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2451333,
+          -25.4719935
+        ],
+        "type": "Point"
+      },
+      "id": 3101885279,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "4827",
+        "addr:street": "Rua Canal Belém",
+        "name": "Araújo Bike",
+        "phone": "41 3296 1253",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2501831,
+          -25.489927
+        ],
+        "type": "Point"
+      },
+      "id": 3146255189,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "1878",
+        "addr:street": "Rua Professor João Soares Barcelos",
+        "name": "Cicles Barcelos",
+        "phone": "+55 (41) 3276-0227",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2507589,
+          -25.4739186
+        ],
+        "type": "Point"
+      },
+      "id": 3185524347,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "5233",
+        "addr:street": "Avenida Marechal Floriano Peixoto",
+        "name": "D Fabris",
+        "phone": "+554132764551",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2466464,
+          -25.4791488
+        ],
+        "type": "Point"
+      },
+      "id": 3224359953,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "564",
+        "addr:street": "Rua Júlio Cesar Ribeiro de Sousa",
+        "name": "RL Bikes",
+        "phone": "55 41 30273566",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2456307,
+          -25.4172657
+        ],
+        "type": "Point"
+      },
+      "id": 3235479281,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "1559",
+        "addr:state": "PR",
+        "addr:street": "Rua Fernandes de Barros",
+        "name": "Jamur Bikes",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "no",
+        "shop": "bicycle",
+        "website": "http://www.jamurbikes.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2476207,
+          -25.4176057
+        ],
+        "type": "Point"
+      },
+      "id": 3254702383,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "1450",
+        "addr:street": "Avenida Augusto Stresser",
+        "name": "Bike Portella",
+        "phone": "55 41 3262 3707",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "http://www.bikeportella.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2974365,
+          -25.4252834
+        ],
+        "type": "Point"
+      },
+      "id": 3274591344,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "231",
+        "addr:street": "Rua Jacarezinho",
+        "email": "s.bikesespecializadas@yahoo.com.br",
+        "name": "S Bikes",
+        "phone": "55 41 3339 9615",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.3098963,
+          -25.4890672
+        ],
+        "type": "Point"
+      },
+      "id": 3304167063,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:country": "BR",
+        "addr:housenumber": "1578",
+        "addr:street": "Rua Pedro Zagonel",
+        "name": "Bike Sport",
+        "phone": "+55 41 32480535",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2942215,
+          -25.4823433
+        ],
+        "type": "Point"
+      },
+      "id": 3329708563,
+      "properties": {
+        "addr:city": "Curitiba",
+        "addr:housenumber": "133",
+        "addr:street": "Rua João Palomeque",
+        "name": "Cicles Muchau",
+        "phone": "55 42 3246-2154",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:diy": "no",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.4907059,
+          -27.6833696
+        ],
+        "type": "Point"
+      },
+      "id": 1453300935,
+      "properties": {
+        "addr:housenumber": "2176",
+        "addr:street": "Avenida Pequeno Príncipe",
+        "name": "Cicle Campeche",
+        "opening_hours": "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-16:00",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.5077987,
+          -27.6000042
+        ],
+        "type": "Point"
+      },
+      "id": 1454993657,
+      "properties": {
+        "name": "Valdir Bikes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.5495898,
+          -27.5859933
+        ],
+        "type": "Point"
+      },
+      "id": 1492870690,
+      "properties": {
+        "addr:housenumber": "2134",
+        "addr:street": "Avenida Jornalista Rubens de Arruda Ramos",
+        "name": "Bike Dream",
+        "shop": "bicycle",
+        "website": "http://www.bikedream.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.5212023,
+          -27.5864207
+        ],
+        "type": "Point"
+      },
+      "id": 1737663553,
+      "properties": {
+        "addr:housenumber": "269",
+        "addr:postcode": "88036-270",
+        "addr:street": "Rua Juvêncio Costa",
+        "name": "Della Bikes",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-13:00",
+        "phone": "0055-48-3234-5000",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.dellabikes.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.5241789,
+          -27.5801572
+        ],
+        "type": "Point"
+      },
+      "id": 1749056011,
+      "properties": {
+        "name": "Ciclobike Trindade",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -48.5215298,
+          -27.5951018
+        ],
+        "type": "Point"
+      },
+      "id": 3075472394,
+      "properties": {
+        "addr:city": "Florianópolis",
+        "addr:housenumber": "42",
+        "addr:street": "Rua Francisco Goulart",
+        "name": "Garupa",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-14:00",
+        "shop": "bicycle",
+        "website": "http://garupa.bike/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2204853,
+          -30.036153
+        ],
+        "type": "Point"
+      },
+      "id": 1243941793,
+      "properties": {
+        "addr:housenumber": "449",
+        "addr:street": "Avenida João Pessoa",
+        "name": "Ciclelândia",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:30; Su 10:00-16:00",
+        "phone": "+55 51 32126955",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.ciclelandia.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1977209,
+          -30.023312
+        ],
+        "type": "Point"
+      },
+      "id": 2168287721,
+      "properties": {
+        "addr:housenumber": "1090",
+        "addr:postcode": "90510-003",
+        "addr:street": "Avenida 24 de Outubro",
+        "email": "biketech@biketech-rs.com.br",
+        "name": "BikeTech",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:00-17:00",
+        "phone": "+55 51 33467533",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "start_date": "1991",
+        "website": "http://www.biketech-rs.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1888287,
+          -30.0103367
+        ],
+        "type": "Point"
+      },
+      "id": 2168287728,
+      "properties": {
+        "addr:housenumber": "390",
+        "addr:postcode": "90550-142",
+        "addr:street": "Rua Dom Pedro II",
+        "email": "atendimento@espacodociclista.com.br",
+        "name": "Espaço do Ciclista",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-16:00",
+        "phone": "+55 51 30845545",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "start_date": "2010",
+        "website": "http://www.espacodociclista.com.br",
+        "wheelchair": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.205731,
+          -30.043786
+        ],
+        "type": "Point"
+      },
+      "id": 2168882747,
+      "properties": {
+        "addr:housename": "Loja 7",
+        "addr:housenumber": "2727",
+        "addr:postcode": "90160-091",
+        "addr:street": "Avenida Ipiranga",
+        "name": "Adventure Bike Shop",
+        "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-18:00",
+        "phone": "+55 51 32196245",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "start_date": "2010",
+        "website": "http://www.adventurebike.com.br",
+        "wheelchair": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1496052,
+          -30.0634861
+        ],
+        "type": "Point"
+      },
+      "id": 2168882748,
+      "properties": {
+        "addr:housenumber": "331",
+        "addr:postcode": "91430-000",
+        "addr:street": "Avenida Antônio de Carvalho",
+        "name": "Adventure Bike Shop",
+        "phone": "+55 51 33345593",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.adventurebike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1519196,
+          -30.0047224
+        ],
+        "type": "Point"
+      },
+      "id": 2168882749,
+      "properties": {
+        "addr:housenumber": "125",
+        "addr:postcode": "91050-340",
+        "addr:street": "Avenida Quito",
+        "name": "Bicicletas Lindóia",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "phone": "+55 51 33446546",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1957262,
+          -30.0386625
+        ],
+        "type": "Point"
+      },
+      "id": 2168882750,
+      "properties": {
+        "addr:housenumber": "2665",
+        "addr:postcode": "90640-003",
+        "addr:street": "Rua Vicente da Fontoura",
+        "name": "Bike Point",
+        "phone": "+55 51 33308984",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.253148,
+          -30.104441
+        ],
+        "type": "Point"
+      },
+      "id": 2168882751,
+      "properties": {
+        "addr:housenumber": "1798",
+        "addr:postcode": "91900-000",
+        "addr:street": "Avenida Wenceslau Escobar",
+        "name": "Boutique Moto e Bike",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:30",
+        "phone": "+55 51 32688458",
+        "service:bicycle:repair": "yes",
+        "service:motorcycle:parts": "yes",
+        "service:motorcycle:repair": "yes",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.141568,
+          -30.0445609
+        ],
+        "type": "Point"
+      },
+      "id": 2168882752,
+      "properties": {
+        "addr:housename": "Loja 10",
+        "addr:housenumber": "7191",
+        "addr:postcode": "91310-001",
+        "addr:street": "Avenida Protásio Alves",
+        "alt_name": "Companhia do Ciclista Filial",
+        "fixme": "Onde fica isto exatamente?",
+        "name": "Cia do Ciclista Filial",
+        "phone": "+55 51 39070920",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.ciadociclista.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2543285,
+          -30.1082778
+        ],
+        "type": "Point"
+      },
+      "id": 2168882753,
+      "properties": {
+        "addr:housename": "Loja 30",
+        "addr:housenumber": "2247",
+        "addr:postcode": "91900-000",
+        "addr:street": "Avenida Wenceslau Escobar",
+        "email": "dudubiketeam@hotmail.com",
+        "name": "Dudu Bike Team",
+        "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:30",
+        "phone": "+55 51 32692369",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "http://www.dudubike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2120037,
+          -30.0642035
+        ],
+        "type": "Point"
+      },
+      "id": 2171611647,
+      "properties": {
+        "addr:housenumber": "990",
+        "addr:postcode": "90880-001",
+        "addr:street": "Avenida Doutor Carlos Barbosa",
+        "name": "LB Bike",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:30; Sa 08:00-13:00",
+        "phone": "+55 51 32197325",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1848339,
+          -30.0081276
+        ],
+        "type": "Point"
+      },
+      "id": 2171611659,
+      "properties": {
+        "addr:housename": "Loja 3",
+        "addr:housenumber": "95",
+        "addr:postcode": "91010-000",
+        "addr:street": "Avenida Assis Brasil",
+        "name": "M. Bike Loja 1",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-16:00",
+        "phone": "+55 51 33422237",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.mbike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.1964813,
+          -30.0155556
+        ],
+        "type": "Point"
+      },
+      "id": 2171611673,
+      "properties": {
+        "addr:housenumber": "1645",
+        "addr:postcode": "90550-002",
+        "addr:street": "Avenida Benjamin Constant",
+        "name": "M. Bike Loja 2",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-16:00",
+        "phone": "+55 51 33256904",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.mbike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2148249,
+          -30.048076
+        ],
+        "type": "Point"
+      },
+      "id": 2171611683,
+      "properties": {
+        "addr:housename": "Loja 113",
+        "addr:housenumber": "1445",
+        "addr:postcode": "90160-091",
+        "addr:street": "Avenida Ipiranga",
+        "name": "M. Bike Loja 4",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-16:00",
+        "phone": "+55 51 30127211",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.mbike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2306684,
+          -30.1025846
+        ],
+        "type": "Point"
+      },
+      "id": 2171733305,
+      "properties": {
+        "addr:housenumber": "3000",
+        "addr:postcode": "91740-000",
+        "addr:street": "Avenida da Cavalhada",
+        "name": "Macedo Bike",
+        "phone": "+55 51 32764775",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "start_date": "1937",
+        "website": "http://www.macedobike.blogspot.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2117842,
+          -30.0506337
+        ],
+        "type": "Point"
+      },
+      "id": 2171733311,
+      "properties": {
+        "addr:housenumber": "99",
+        "addr:postcode": "90620-001",
+        "addr:street": "Avenida Princesa Isabel",
+        "name": "Paladini Bicicletas",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "phone": "+55 51 30193773",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.2256337,
+          -30.0379955
+        ],
+        "type": "Point"
+      },
+      "id": 2171733318,
+      "properties": {
+        "addr:housenumber": "26",
+        "addr:postcode": "90050-210",
+        "addr:street": "Travessa do Carmo",
+        "email": "sunsetbikes@hotmail.com",
+        "name": "Sunset Bikes",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-16:00",
+        "phone": "+55 51 33721244",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.sunsetbikes.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.220399,
+          -30.0362636
+        ],
+        "type": "Point"
+      },
+      "id": 2994579945,
+      "properties": {
+        "name": "Full Bike",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1855242,
+          -22.9336038
+        ],
+        "type": "Point"
+      },
+      "id": 346244655,
+      "properties": {
+        "addr:housenumber": "197A",
+        "name": "Ciclovia Laranjeiras",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1905681,
+          -22.9867153
+        ],
+        "type": "Point"
+      },
+      "id": 412310720,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Cicle Calle",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1890382,
+          -22.9863049
+        ],
+        "type": "Point"
+      },
+      "id": 412310721,
+      "properties": {
+        "addr:housenumber": "4240 - Loja H",
+        "addr:postcode": "22070-900",
+        "addr:street": "Avenida Atlântica",
+        "name": "3 Shop",
+        "phone": "+55-21-88928588",
+        "phone:2": "+55-21-2247-1443",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://www.3shopbr.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1754878,
+          -22.9622393
+        ],
+        "type": "Point"
+      },
+      "id": 454457664,
+      "properties": {
+        "addr:housenumber": "330",
+        "addr:street": "Avenida Prado Júnior",
+        "name": "Ciclovia Zona Sul",
+        "phone": "+55-21-22755299",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1810743,
+          -22.9317372
+        ],
+        "type": "Point"
+      },
+      "id": 810378142,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "58 - Loja A",
+        "addr:street": "Rua das Laranjeiras",
+        "name": "Bike & Lazer",
+        "phone": "+55-21-22857941",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://bikeelazer.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1899533,
+          -22.9353167
+        ],
+        "type": "Point"
+      },
+      "id": 932343268,
+      "properties": {
+        "addr:housenumber": "336",
+        "addr:street": "Rua das Laranjeiras",
+        "name": "Nova Bike Dourado",
+        "phone": "+55-21-30641720; +55-21-35026960",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1859976,
+          -22.9561303
+        ],
+        "type": "Point"
+      },
+      "id": 1265049941,
+      "properties": {
+        "addr:housenumber": "174",
+        "addr:street": "Rua General Polidoro",
+        "name": "Special Adventure",
+        "phone": "+55-21-22663002",
+        "shop": "bicycle",
+        "website": "http://www.specialadventure.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2236715,
+          -22.9811715
+        ],
+        "type": "Point"
+      },
+      "id": 1345399049,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1868311,
+          -22.9465753
+        ],
+        "type": "Point"
+      },
+      "id": 1377668188,
+      "properties": {
+        "addr:housenumber": "361",
+        "addr:street": "Rua Assunção",
+        "name": "Bicicletaria Celção",
+        "phone": "+55 21 91130094",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1994932,
+          -22.9847181
+        ],
+        "type": "Point"
+      },
+      "id": 1515291448,
+      "properties": {
+        "addr:housenumber": "135 - Loja B",
+        "addr:postcode": "22410-002",
+        "addr:street": "Rua Visconde de Pirajá",
+        "name": "Bike & Lazer",
+        "phone": "+55-21-22677778",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://www.bikeelazer.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.222715,
+          -22.9646023
+        ],
+        "type": "Point"
+      },
+      "id": 1583808949,
+      "properties": {
+        "addr:housenumber": "325 loja J",
+        "addr:street": "Rua Von Martius",
+        "name": "CycloPonto",
+        "phone": "+55-21-25405787",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3153795,
+          -22.8265773
+        ],
+        "type": "Point"
+      },
+      "id": 1611096007,
+      "properties": {
+        "name": "Cicle Esporte Vista Alegre",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1788449,
+          -22.9243518
+        ],
+        "type": "Point"
+      },
+      "id": 1622794819,
+      "properties": {
+        "name": "Real Bike",
+        "phone": "+55-21-22655097",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1777234,
+          -22.9237385
+        ],
+        "type": "Point"
+      },
+      "id": 1622794878,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "36A",
+        "addr:postcode": "22211-200",
+        "addr:street": "Rua Pedro Américo",
+        "name": "Salas Bikes",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-14:00",
+        "phone": "+55-21-22452835",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "http://www.salasbikes.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2258912,
+          -22.965256
+        ],
+        "type": "Point"
+      },
+      "id": 1788105646,
+      "properties": {
+        "addr:housenumber": "1",
+        "addr:street": "Rua Alberto Ribeiro",
+        "name": "Robson Bike",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1769907,
+          -22.9398091
+        ],
+        "type": "Point"
+      },
+      "id": 1814202907,
+      "properties": {
+        "name": "Bicicletas Flamengo",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.350045,
+          -22.8474361
+        ],
+        "type": "Point"
+      },
+      "id": 1976977463,
+      "properties": {
+        "addr:housenumber": "697 Lojas A, B e C",
+        "addr:street": "Avenida Italianos",
+        "name": "Casa São João Batista Bicicletas",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2247548,
+          -22.9182443
+        ],
+        "type": "Point"
+      },
+      "id": 1977835680,
+      "properties": {
+        "addr:housenumber": "4 Loja 2",
+        "addr:street": "Rua Almirante Cochrane",
+        "name": "Cicle Copa Sul",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-13:30",
+        "phone": "+55-21-22348155",
+        "shop": "bicycle",
+        "website": "http://www.angelfire.com/bc2/copasul/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1891922,
+          -22.9864096
+        ],
+        "type": "Point"
+      },
+      "id": 1990989779,
+      "properties": {
+        "addr:housenumber": "20C",
+        "addr:street": "Rua Francisco Otaviano",
+        "name": "Velô eBike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3046082,
+          -22.8958312
+        ],
+        "type": "Point"
+      },
+      "id": 2001272690,
+      "properties": {
+        "addr:housenumber": "2 - Anexo",
+        "addr:street": "Rua Xavier dos Pássaros",
+        "name": "Melo's Cycle",
+        "phone": "+55-21-39799838",
+        "shop": "bicycle",
+        "website": "http://www.meloscicles.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2954935,
+          -22.897708
+        ],
+        "type": "Point"
+      },
+      "id": 2001277758,
+      "properties": {
+        "addr:housenumber": "96 - Loja A",
+        "addr:street": "Rua Adolfo Bergamini",
+        "name": "Melo's Cicle",
+        "phone": "+55-21-39799841",
+        "shop": "bicycle",
+        "website": "http://www.meloscicles.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4466284,
+          -23.0132014
+        ],
+        "type": "Point"
+      },
+      "id": 2001328842,
+      "properties": {
+        "addr:housenumber": "40",
+        "addr:street": "Avenida Genaro de Carvalho",
+        "name": "CicloPonto",
+        "phone": "+55-21-24875182",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1755695,
+          -22.819058
+        ],
+        "type": "Point"
+      },
+      "id": 2001355396,
+      "properties": {
+        "addr:housenumber": "127",
+        "addr:street": "Praia das Pitangueiras",
+        "name": "Ciclista da Ilha",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1935349,
+          -22.797745
+        ],
+        "type": "Point"
+      },
+      "id": 2001358678,
+      "properties": {
+        "addr:housenumber": "91",
+        "addr:street": "Rua Jaime Perdigão",
+        "name": "Cicle Zidan",
+        "phone": "+55-21-33535470",
+        "shop": "bicycle",
+        "website": "http://www.zidan.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1858747,
+          -22.8109786
+        ],
+        "type": "Point"
+      },
+      "id": 2001375625,
+      "properties": {
+        "addr:housenumber": "622",
+        "addr:street": "Estrada da Cacuia",
+        "name": "Star Bike",
+        "shop": "bicycle",
+        "website": "http://www.starbike.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2316135,
+          -22.9666306
+        ],
+        "type": "Point"
+      },
+      "id": 2014546050,
+      "properties": {
+        "addr:housenumber": "10 loja A",
+        "addr:street": "Rua Marquês de Sabará",
+        "name": "Intense Bike",
+        "phone": "+55-21-38752620",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://intensebike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2435124,
+          -22.9202966
+        ],
+        "type": "Point"
+      },
+      "id": 2029084284,
+      "properties": {
+        "addr:housenumber": "245",
+        "addr:postcode": "20541-100",
+        "addr:street": "Rua Maxwell",
+        "name": "Centro Ciclismo Boulevard",
+        "phone": "+55-21-25717999",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1903683,
+          -22.9870276
+        ],
+        "type": "Point"
+      },
+      "id": 2031562977,
+      "properties": {
+        "addr:housenumber": "55",
+        "addr:postcode": "22080-040",
+        "addr:street": "Rua Francisco Otaviano",
+        "name": "Ciclovia Posto 6",
+        "phone": "+55-21-22470018",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1839086,
+          -22.96762
+        ],
+        "type": "Point"
+      },
+      "id": 2031577010,
+      "properties": {
+        "addr:housenumber": "339",
+        "addr:postcode": "22040-001",
+        "addr:street": "Rua Barata Ribeiro",
+        "name": "Modern Bike",
+        "phone": "+55-21-22553131",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://www.modernbike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.191885,
+          -22.984417
+        ],
+        "type": "Point"
+      },
+      "id": 2031586130,
+      "properties": {
+        "addr:housenumber": "55",
+        "addr:postcode": "22081-025",
+        "addr:street": "Rua Júlio de Castilhos",
+        "name": "Cicle Eletrodomésticos Copa Sul",
+        "phone": "+55-21-25211449",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1869933,
+          -22.9663504
+        ],
+        "type": "Point"
+      },
+      "id": 2031591084,
+      "properties": {
+        "addr:housenumber": "120",
+        "addr:postcode": "22031-070",
+        "addr:street": "Rua Siqueira Campos",
+        "name": "Bicicletas Copacabana",
+        "phone": "+55-21-22553176",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.197931,
+          -22.9551081
+        ],
+        "type": "Point"
+      },
+      "id": 2031595294,
+      "properties": {
+        "addr:housenumber": "44 - Loja B",
+        "addr:street": "Rua Humaitá",
+        "name": "Branco Bike",
+        "phone": "+55-21-25270047",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2574466,
+          -22.9214261
+        ],
+        "type": "Point"
+      },
+      "id": 2036693872,
+      "properties": {
+        "addr:housenumber": "70",
+        "addr:street": "Rua José Vicente",
+        "name": "Bicicletas Carioca",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "https://www.facebook.com/bicicletas.carioca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2245761,
+          -22.9819202
+        ],
+        "type": "Point"
+      },
+      "id": 2038247975,
+      "properties": {
+        "addr:housenumber": "605",
+        "addr:postcode": "22431-050",
+        "addr:street": "Rua Dias Ferreira",
+        "name": "Cicle Leblon",
+        "phone": "+55-21-22747658",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3100848,
+          -22.8820912
+        ],
+        "type": "Point"
+      },
+      "id": 2038253919,
+      "properties": {
+        "name": "Norte Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2188711,
+          -22.9660839
+        ],
+        "type": "Point"
+      },
+      "id": 2044814270,
+      "properties": {
+        "addr:housenumber": "719 Loja 2",
+        "addr:street": "Rua Jardim Botânico",
+        "name": "Special Bike",
+        "phone": "+55-21-21430181",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://www.specialbikebotafogo.com.br/loja/company.php"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1745966,
+          -22.9280957
+        ],
+        "type": "Point"
+      },
+      "id": 2093245171,
+      "properties": {
+        "name": "Free Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1806334,
+          -22.9484576
+        ],
+        "type": "Point"
+      },
+      "id": 2093261952,
+      "properties": {
+        "name": "Ciclovias Cariocas",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1840261,
+          -22.9500828
+        ],
+        "type": "Point"
+      },
+      "id": 2093285905,
+      "properties": {
+        "addr:housenumber": "S/N - Box 44",
+        "addr:street": "Rua Nelson Mandela",
+        "name": "SOS Bike",
+        "phone": "+55-21-22265093",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1942637,
+          -22.9513517
+        ],
+        "type": "Point"
+      },
+      "id": 2098718835,
+      "properties": {
+        "addr:housenumber": "359 loja A",
+        "addr:street": "Rua São Clemente",
+        "name": "Bike Virtual",
+        "phone": "+55-21-2667-3611",
+        "shop": "bicycle",
+        "website": "www.bikevirtual.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1912682,
+          -22.9132215
+        ],
+        "type": "Point"
+      },
+      "id": 2098740176,
+      "properties": {
+        "addr:housenumber": "333",
+        "addr:street": "Rua Riachuelo",
+        "name": "Eliel Bike",
+        "phone": "+55-21-2221-6088",
+        "phone:2": "+55-21-3904-1946",
+        "phone:3": "+55-21-7682-9015",
+        "shop": "bicycle",
+        "website": "www.elielbike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1826025,
+          -22.9142565
+        ],
+        "type": "Point"
+      },
+      "id": 2098757695,
+      "properties": {
+        "addr:housenumber": "71",
+        "addr:street": "Rua Riachuelo",
+        "name": "Bicicletas da Lapa",
+        "phone": "+55-21-2224-0428",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2176662,
+          -22.9639313
+        ],
+        "type": "Point"
+      },
+      "id": 2102071525,
+      "properties": {
+        "addr:housenumber": "18E",
+        "addr:street": "Rua Visconde da Graça",
+        "name": "Speed Bikes",
+        "phone": "+55-21-22949246",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3152462,
+          -22.8374929
+        ],
+        "type": "Point"
+      },
+      "id": 2107879383,
+      "properties": {
+        "addr:housenumber": "1741",
+        "addr:street": "Avenida Brás de Pina",
+        "name": "Star Bike",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
+        "phone": "+55-21-3013-9594",
+        "phone:2": "+55-21-3013-8155",
+        "shop": "bicycle",
+        "website": "http://www.starbike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2962175,
+          -23.0098537
+        ],
+        "type": "Point"
+      },
+      "id": 2111111289,
+      "properties": {
+        "addr:housenumber": "3962",
+        "addr:postcode": "22611-020",
+        "addr:street": "Estrada do Joá",
+        "name": "Renato Estrella Bicicletas Simples Ltda",
+        "phone": "+55-21-3298-5364",
+        "shop": "bicycle",
+        "website": "www.renatoestrella.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2432552,
+          -22.9252945
+        ],
+        "type": "Point"
+      },
+      "id": 2111253716,
+      "properties": {
+        "addr:housenumber": "30",
+        "addr:street": "Rua Rocha Pombo",
+        "name": "Mini Bike",
+        "phone": "+55 21 2258-9177;+55 21 8185-8715",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2412063,
+          -22.9319346
+        ],
+        "type": "Point"
+      },
+      "id": 2115080943,
+      "properties": {
+        "addr:housenumber": "201",
+        "addr:postcode": "20510-400",
+        "addr:street": "Rua Guaxupé",
+        "name": "Road Cycle",
+        "phone": "+552125714972",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1832355,
+          -22.9527867
+        ],
+        "type": "Point"
+      },
+      "id": 2191554603,
+      "properties": {
+        "addr:housenumber": "39",
+        "addr:street": "General Polidoro",
+        "name": "LEV",
+        "shop": "bicycle",
+        "telephone": "+55-21-3596-8820",
+        "website": "http://www.golev.com.br/LEV/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3336691,
+          -22.8388964
+        ],
+        "type": "Point"
+      },
+      "id": 2222862479,
+      "properties": {
+        "addr:housenumber": "167A",
+        "addr:street": "Estrada do Colégio",
+        "opening_hours": "Mo-Fr 09:00-16:30",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1995782,
+          -22.9137846
+        ],
+        "type": "Point"
+      },
+      "id": 2302028049,
+      "properties": {
+        "addr:housenumber": "160 Loja A",
+        "addr:street": "Rua Heitor Carrilho",
+        "name": "Radical Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2237245,
+          -22.9826926
+        ],
+        "type": "Point"
+      },
+      "id": 2318497671,
+      "properties": {
+        "name": "BikeTech",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1961276,
+          -22.956894
+        ],
+        "type": "Point"
+      },
+      "id": 2322537087,
+      "properties": {
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.6854089,
+          -22.9147505
+        ],
+        "type": "Point"
+      },
+      "id": 2356511301,
+      "properties": {
+        "addr:housenumber": "60",
+        "addr:street": "Rua Senador Câmara",
+        "name": "Marrafa's Bike Sport",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:00",
+        "phone": "+55-21-33175841",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.6820451,
+          -22.9201425
+        ],
+        "type": "Point"
+      },
+      "id": 2356515681,
+      "properties": {
+        "addr:housenumber": "37",
+        "addr:street": "Avenida Isabel",
+        "name": "Bike & Cia.",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00",
+        "phone": "+55-21-33950268",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2725506,
+          -22.8963386
+        ],
+        "type": "Point"
+      },
+      "id": 2356787344,
+      "properties": {
+        "addr:housenumber": "408",
+        "addr:street": "Rua Capitão Rezende",
+        "phone": "+55-21-25016417",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2490273,
+          -22.9013596
+        ],
+        "type": "Point"
+      },
+      "id": 2356787663,
+      "properties": {
+        "addr:housenumber": "151",
+        "addr:street": "Rua Vinte e Quatro de Maio",
+        "name": "Junior Bicicletas",
+        "phone": "+55-21-78798697; +55-21-86807732",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2541988,
+          -22.9162327
+        ],
+        "type": "Point"
+      },
+      "id": 2356799729,
+      "properties": {
+        "addr:street": "Rua Petrocochino",
+        "name": "Aline Vila Bike",
+        "phone": "+55-21-22588066",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1885461,
+          -22.8993832
+        ],
+        "type": "Point"
+      },
+      "id": 2384504584,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "35",
+        "addr:street": "Rua Barão de São Félix",
+        "name": "Theo Bike",
+        "phone": "+55-21-22030642",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.319605,
+          -22.8475419
+        ],
+        "type": "Point"
+      },
+      "id": 2385461815,
+      "properties": {
+        "addr:housenumber": "386",
+        "addr:street": "Estrada Coronel Vieira",
+        "name": "Bike Eli & Leo",
+        "phone": "+55-21-33516347",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1770883,
+          -22.9154717
+        ],
+        "type": "Point"
+      },
+      "id": 2414047280,
+      "properties": {
+        "name": "TriCiclo - Casa Nuvem - Ciclo Courier",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2725019,
+          -22.9082606
+        ],
+        "type": "Point"
+      },
+      "id": 2430528585,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "160",
+        "addr:street": "Rua General Belegarde",
+        "name": "Pedivela Bikes",
+        "opening_hours": "Mo 13:00-19:00; Tu-Fr 08:00-18:00; Sa 08:00-17:00",
+        "phone": "+55-21-30454699",
+        "shop": "bicycle",
+        "source": "survey",
+        "website": "http://www.pedivelabikes.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3026708,
+          -22.8347649
+        ],
+        "type": "Point"
+      },
+      "id": 2430615262,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housename": "Loja B",
+        "addr:housenumber": "9",
+        "addr:street": "Rua Minduri",
+        "name": "CL Bike",
+        "phone": "+55-21-32418162",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1907034,
+          -22.9639797
+        ],
+        "type": "Point"
+      },
+      "id": 2439413057,
+      "properties": {
+        "addr:housename": "Loja B",
+        "addr:housenumber": "264",
+        "addr:street": "Rua Siqueira Campos",
+        "name": "Bike Zen",
+        "phone": "+55-21-22366557",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.209731,
+          -22.918981
+        ],
+        "type": "Point"
+      },
+      "id": 2524487694,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "299 Loja E",
+        "addr:street": "Avenida Paulo de Frontin",
+        "name": "Bicicletaria AVC",
+        "phone": "+55-21-22935143",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2639869,
+          -22.913558
+        ],
+        "type": "Point"
+      },
+      "id": 2524532275,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1243 Loja A",
+        "addr:street": "Rua Barão do Bom Retiro",
+        "name": "Fenix Bike",
+        "phone": "+55-21-32777579",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2089235,
+          -22.9213814
+        ],
+        "type": "Point"
+      },
+      "id": 2524536905,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "156 Loja A",
+        "addr:street": "Rua Aristides Lobo",
+        "name": "João Bosco Aparecido",
+        "phone": "+55-21-81154468",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2383113,
+          -22.9239455
+        ],
+        "type": "Point"
+      },
+      "id": 2583529464,
+      "properties": {
+        "addr:housenumber": "398",
+        "addr:street": "Rua Barão de Mesquita",
+        "name": "Cicle Tijuca",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4736023,
+          -23.0167002
+        ],
+        "type": "Point"
+      },
+      "id": 2587405871,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housename": "Lojas B e C",
+        "addr:housenumber": "16661",
+        "addr:street": "Avenida das Américas",
+        "addr:suburb": "Recreio dos Bandeirantes",
+        "name": "Star Bike",
+        "phone": "+55-21-34112121",
+        "shop": "bicycle",
+        "source": "survey; website"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3043614,
+          -22.8226723
+        ],
+        "type": "Point"
+      },
+      "id": 2621647808,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "49",
+        "addr:postcode": "21250-520",
+        "addr:street": "Rua Capitão Cruz",
+        "name": "Edson Bike",
+        "phone": "+55-21-31375111",
+        "shop": "bicycle",
+        "source": "survey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3113507,
+          -22.8518377
+        ],
+        "type": "Point"
+      },
+      "id": 2643930697,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "597",
+        "addr:street": "Rua Angaí",
+        "addr:suburb": "Vila Kosmos",
+        "name": "Bazar Bike Carioca",
+        "phone": "+55-21-24818463",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4735032,
+          -23.0166194
+        ],
+        "type": "Point"
+      },
+      "id": 2684462117,
+      "properties": {
+        "name": "Bike Show",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3011643,
+          -23.0083734
+        ],
+        "type": "Point"
+      },
+      "id": 2888535715,
+      "properties": {
+        "name": "Specialized Concept Store",
+        "shop": "bicycle",
+        "website": "http://www.specialized.com/br/pt-br/news/latest-news/17548"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4375968,
+          -22.8778802
+        ],
+        "type": "Point"
+      },
+      "id": 2906248250,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1490",
+        "addr:postcode": "21715-321",
+        "addr:street": "Avenida de Santa Cruz",
+        "name": "H.E. Bicicletas e Motos",
+        "phone": "+55-21-33313551",
+        "shop": "bicycle",
+        "website": "https://www.facebook.com/hebicicletasemotos/info"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.436489,
+          -22.8782706
+        ],
+        "type": "Point"
+      },
+      "id": 2906257369,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1347 Loja C",
+        "addr:street": "Rua do Imperador",
+        "name": "Bike Show Adventure",
+        "phone": "+55-21-33365551",
+        "shop": "bicycle",
+        "website": "http://bikeshowadventure.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1791231,
+          -22.9264595
+        ],
+        "type": "Point"
+      },
+      "id": 2913164190,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "63",
+        "addr:street": "Rua Bento Lisboa",
+        "name": "Karona Bike",
+        "phone": "+55-21-22257330;+55-21-22257331",
+        "shop": "bicycle",
+        "website": "http://www.karonabike.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.1938462,
+          -22.9855898
+        ],
+        "type": "Point"
+      },
+      "id": 2926858614,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "440 Loja A",
+        "addr:postcode": "22081-030",
+        "addr:street": "Avenida Rainha Elizabeth da Bélgica",
+        "name": "Barcellos Sports Ipanema",
+        "shop": "bicycle",
+        "start_date": "20140606",
+        "website": "http://www.barcellossports.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3819767,
+          -22.9169077
+        ],
+        "type": "Point"
+      },
+      "id": 2936286847,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "413",
+        "addr:postcode": "22720-400",
+        "addr:street": "Avenida dos Mananciais",
+        "fixme": "confirmar se o nome é esse mesmo",
+        "name": "Bike Mananciais",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.2506993,
+          -22.9914538
+        ],
+        "type": "Point"
+      },
+      "id": 3093559578,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "29",
+        "addr:street": "Travessa Oliveira",
+        "addr:suburb": "Rocinha",
+        "name": "Rocinha Bike's",
+        "phone": "+55-21-981172855",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4883306,
+          -23.0217862
+        ],
+        "type": "Point"
+      },
+      "id": 3215756176,
+      "properties": {
+        "name": "Bike Tech",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4644316,
+          -22.8734166
+        ],
+        "type": "Point"
+      },
+      "id": 3220749233,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1773",
+        "addr:street": "Rua Sul América",
+        "addr:suburb": "Bangu",
+        "name": "Tudilene Bike Bangu",
+        "phone": "+552134645492",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.462774,
+          -22.8744842
+        ],
+        "type": "Point"
+      },
+      "id": 3220749234,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "71",
+        "addr:postcode": "21870-140",
+        "addr:street": "Rua Sabogi",
+        "addr:suburb": "Bangu",
+        "name": "Bicicletas Machado",
+        "phone": "+55 21 3331-0795",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4621517,
+          -22.8748846
+        ],
+        "type": "Point"
+      },
+      "id": 3220749235,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "20",
+        "addr:street": "Avenida Ribeiro Dantas",
+        "addr:suburb": "Bangu",
+        "name": "Cabral Adevance",
+        "phone": "+55 21 99563-3076",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4618299,
+          -22.8749982
+        ],
+        "type": "Point"
+      },
+      "id": 3220749236,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1488",
+        "addr:street": "Rua Coronel Tamarindo",
+        "addr:suburb": "Bangu",
+        "name": "GB Bicicletas",
+        "phone": "+55 21 2161-3154",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4816218,
+          -23.0253317
+        ],
+        "type": "Point"
+      },
+      "id": 3235110038,
+      "properties": {
+        "name": "Boys Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4631078,
+          -22.8702506
+        ],
+        "type": "Point"
+      },
+      "id": 3247029648,
+      "properties": {
+        "name": "Arlindo Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3057107,
+          -23.0143266
+        ],
+        "type": "Point"
+      },
+      "id": 3251106613,
+      "properties": {
+        "name": "CycloPonto",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.5611208,
+          -22.9055365
+        ],
+        "type": "Point"
+      },
+      "id": 3301346393,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "112",
+        "addr:street": "Rua Amaral Costa",
+        "addr:suburb": "Campo Grande",
+        "name": "Bike Show Adventure",
+        "phone": "+55-21-24131775",
+        "shop": "bicycle",
+        "website": "http://www.bikeshowadventure.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.5566449,
+          -22.9019249
+        ],
+        "type": "Point"
+      },
+      "id": 3301346404,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "70",
+        "addr:street": "Rua Ferreira Borges",
+        "addr:suburb": "Campo Grande",
+        "name": "A Nova Bicicleta",
+        "phone": "+55-21-24135446",
+        "shop": "bicycle",
+        "website": "http://novabicicleta.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.556543,
+          -22.9045191
+        ],
+        "type": "Point"
+      },
+      "id": 3301346411,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "107",
+        "addr:street": "Rua Aurélio de Figueiredo",
+        "addr:suburb": "Campo Grande",
+        "name": "Marrafa's",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.3733967,
+          -22.9267141
+        ],
+        "type": "Point"
+      },
+      "id": 3301415874,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "365",
+        "addr:street": "Estrada dos Bandeirantes",
+        "addr:suburb": "Taquara",
+        "name": "Bike Show Adventure",
+        "phone": "+55-21-34329984",
+        "shop": "bicycle",
+        "website": "http://www.bikeshowadventure.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.5621756,
+          -22.9021917
+        ],
+        "type": "Point"
+      },
+      "id": 3301821799,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1298",
+        "addr:postcode": "23080-000",
+        "addr:street": "Rua Campo Grande",
+        "addr:suburb": "Campo Grande",
+        "name": "Bozó Bicicletas",
+        "phone": "+55-21-33948665",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.6839904,
+          -22.9181807
+        ],
+        "type": "Point"
+      },
+      "id": 3322433217,
+      "properties": {
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "61",
+        "addr:street": "Rua Lopes de Moura",
+        "addr:suburb": "Santa Cruz",
+        "name": "Bike & Lar",
+        "phone": "+55 21 31569029",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.7124211,
+          -22.9044612
+        ],
+        "type": "Point"
+      },
+      "id": 3324212448,
+      "properties": {
+        "addr:housenumber": "2840",
+        "addr:street": "Avenida João XXIII",
+        "name": "Bike & Cia.",
+        "phone": "+55 21 33655153",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7258775,
+          -23.5703287
+        ],
+        "type": "Point"
+      },
+      "id": 1373408252,
+      "properties": {
+        "name": "Bicicletaria do Luciano",
+        "phone": "+55 11 37261763",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5889084,
+          -23.5658655
+        ],
+        "type": "Point"
+      },
+      "id": 1770073775,
+      "properties": {
+        "name": "Ciclo A3",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.650915,
+          -23.4709265
+        ],
+        "type": "Point"
+      },
+      "id": 1910343542,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6922432,
+          -23.5565056
+        ],
+        "type": "Point"
+      },
+      "id": 2178760338,
+      "properties": {
+        "addr:city": "Sao Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "1344",
+        "addr:postcode": "05417-002",
+        "addr:street": "Rua Mourato Coelho",
+        "amenity": "bar",
+        "contact:phone": "(11) 3938-7366",
+        "contact:website": "http://www.sptrans.com.br",
+        "name": "Bar e Bicicletaria Las Magrelas",
+        "opening_hours": "Tu-Su 10:00-22:00",
+        "payment:bitcoin": "yes",
+        "phone": "(11) 3938-7366",
+        "service:bicycle:diy": "yes",
+        "shop": "bicycle",
+        "website": "http://lasmagrelas.com.br/",
+        "yelp": "http://www.yelp.com/biz/las-magrelas-s%C3%A3o-paulo#query:bar%20e%20bicicletaria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.4006507,
+          -23.6005436
+        ],
+        "type": "Point"
+      },
+      "id": 2235142489,
+      "properties": {
+        "name": "Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6870411,
+          -23.7387577
+        ],
+        "type": "Point"
+      },
+      "id": 2288348038,
+      "properties": {
+        "name": "Aires Bicicletaria",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.685882,
+          -23.5944122
+        ],
+        "type": "Point"
+      },
+      "id": 2327588639,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "49",
+        "addr:postcode": "04552-010",
+        "addr:street": "Travessa Doutor José Alves de Souza Neto",
+        "alt_name": "Ciclo Vila",
+        "internet_access": "yes",
+        "name": "Ciclo Urbano",
+        "opening_hours": "Tu-Fr 11:00-19:00;Sa-Su 10:00-17:00",
+        "phone": "+55 11 3476-9919",
+        "repair": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.ciclourbano.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7353705,
+          -23.4498436
+        ],
+        "type": "Point"
+      },
+      "id": 2427991193,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7482088,
+          -23.5631767
+        ],
+        "type": "Point"
+      },
+      "id": 2498790700,
+      "properties": {
+        "addr:housename": "Avenida do Rio Pequeno",
+        "name": "Bicicletaria do Gomes",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7806359,
+          -23.5873956
+        ],
+        "type": "Point"
+      },
+      "id": 2498798625,
+      "properties": {
+        "addr:housename": "Érico Veríssimo",
+        "name": "Bicicletaria do João",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6429174,
+          -23.5774593
+        ],
+        "type": "Point"
+      },
+      "id": 2862747066,
+      "properties": {
+        "name": "Ciclo Bianchini",
+        "phone": "1155393530",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6426623,
+          -23.6038538
+        ],
+        "type": "Point"
+      },
+      "id": 3296590880,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1536",
+        "addr:postcode": "04043-100",
+        "addr:street": "Rua Luis Góis",
+        "addr:suburb": "Vila Clementino",
+        "name": "Bike Stop",
+        "opening_hours": "09:30-18:30",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6720448,
+          -23.5328841
+        ],
+        "type": "Point"
+      },
+      "id": 3296622063,
+      "properties": {
+        "addr:street": "Rua Itapicuru",
+        "name": "Bicicletaria do Maluf",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6587297,
+          -23.5563203
+        ],
+        "type": "Point"
+      },
+      "id": 3296968764,
+      "properties": {
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1429",
+        "addr:postcode": "01304-001",
+        "addr:street": "Rua Augusta",
+        "addr:suburb": "Consolação",
+        "addr:unit": "loja 12",
+        "name": "SPOKES Bike Shop",
+        "opening_hours": "Seg/Qua/Sex: 11:00 - 20:00 Ter/Qui: 11:00 - 19:00 Sáb/Dom: 15:00 - 20:00",
+        "phone": "+55 11 3895-4332",
+        "shop": "bicycle",
+        "website": "http://www.spokes.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3666094,
+          -12.9458057
+        ],
+        "type": "Point"
+      },
+      "id": 2878085065,
+      "properties": {
+        "name": "CONEXÃO BIKES",
+        "opening_hours": "8 AS 18 HORAS",
+        "service": "repair",
+        "service_1": "retail",
+        "service_2": "pump",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4356871,
+          -12.9286079
+        ],
+        "type": "Point"
+      },
+      "id": 2878087659,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "281",
+        "addr:postcode": "41253-190",
+        "addr:street": "Avenida São Marcos",
+        "name": "A&M Bicicletaria",
+        "opening_hours": "08:00 - 18:00",
+        "phone": "+55 713393 0373",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4449153,
+          -12.9973234
+        ],
+        "type": "Point"
+      },
+      "id": 2878100473,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:street": "Rua Artur de Azevedo Machado",
+        "name": "Bike Aventura",
+        "note": "Reparo, manutenção, conserto e venda de peças para bicicletas.",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5261511,
+          -13.0075636
+        ],
+        "type": "Point"
+      },
+      "id": 2878101017,
+      "properties": {
+        "name": "Repair Bike Shop Barra",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4612721,
+          -13.0076092
+        ],
+        "type": "Point"
+      },
+      "id": 2878107374,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "498",
+        "addr:postcode": "41830-020",
+        "addr:street": "Rua Minas Gerais",
+        "name": "Best Bike",
+        "opening_hours": "seg-sex 09:00 às 18:00; sab 09:00-13:00",
+        "service": "dealer",
+        "service_1": "repair",
+        "service_2": "parts",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4839356,
+          -13.013355
+        ],
+        "type": "Point"
+      },
+      "id": 2878108626,
+      "properties": {
+        "name": "Newworldbike",
+        "opening_hours": "2ª a 6ª de 8h às 18h - Sáb. de 8h às 13h",
+        "service": "retail;repair",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.366192,
+          -12.9325928
+        ],
+        "type": "Point"
+      },
+      "id": 2878112650,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:postcode": "41630-700",
+        "name": "CARACA BIKES",
+        "opening_hours": "8 as 17 horas",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4789816,
+          -12.9880257
+        ],
+        "type": "Point"
+      },
+      "id": 2878176025,
+      "properties": {
+        "addr:street": "Campinas de Brotas",
+        "name": "CICLOMOTO",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3650502,
+          -12.9349761
+        ],
+        "type": "Point"
+      },
+      "id": 2878218179,
+      "properties": {
+        "name": "Bikes",
+        "opening_hours": "8 as 17 horas",
+        "service": "pump",
+        "service_1": "retail",
+        "service_2": "repair",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4217706,
+          -12.9383506
+        ],
+        "type": "Point"
+      },
+      "id": 2878262301,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:street": "Avenida São Rafael",
+        "name": "Cesar Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5168053,
+          -12.9825833
+        ],
+        "type": "Point"
+      },
+      "id": 3044719033,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:street": "Praça General Inocêncio Galvão",
+        "addr:suburb": "Centro",
+        "name": "ErvaCiclo",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4318986,
+          -12.975152
+        ],
+        "type": "Point"
+      },
+      "id": 3045971158,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "60",
+        "addr:postcode": "41710-000",
+        "addr:street": "Estrada Professor Pinto de Aguiar",
+        "addr:suburb": "Boca do Rio",
+        "name": "A&M BICICLETARIA",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4324538,
+          -12.9799498
+        ],
+        "type": "Point"
+      },
+      "id": 3045973988,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "72",
+        "addr:street": "Rua Simões Filho",
+        "addr:suburb": "Boca do Rio",
+        "name": "Pro Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4302329,
+          -12.9780679
+        ],
+        "type": "Point"
+      },
+      "id": 3045975500,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "13",
+        "addr:street": "Rua Simões Filho",
+        "addr:suburb": "Boca do Rio",
+        "name": "Alan Bikes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4691362,
+          -13.0134111
+        ],
+        "type": "Point"
+      },
+      "id": 3078582668,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "37",
+        "addr:street": "Avenida Amaralina",
+        "addr:suburb": "Amaralina",
+        "name": "UNION Bike",
+        "phone": "(71) 3015-2222",
+        "shop": "bicycle",
+        "website": "https://www.facebook.com/unionbikesalvador"
+      },
+      "type": "Feature"
+    }
+  ]
+}

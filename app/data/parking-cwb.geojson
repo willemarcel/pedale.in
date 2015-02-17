@@ -1,0 +1,170 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2519295,
+          -25.4506383
+        ],
+        "type": "Point"
+      },
+      "id": 852186532,
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "18",
+        "name": "Estacionamento de Bicicleta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2507307,
+          -25.4541192
+        ],
+        "type": "Point"
+      },
+      "id": 852186535,
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "name": "Estacionamento de Bicicleta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2509671,
+          -25.4504852
+        ],
+        "type": "Point"
+      },
+      "id": 865743637,
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "18",
+        "name": "Estacionamento de Bicicleta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2513789,
+          -25.4525212
+        ],
+        "type": "Point"
+      },
+      "id": 865743643,
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "9",
+        "name": "Estacionamento de Bicicleta"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2701319,
+          -25.4142777
+        ],
+        "type": "Point"
+      },
+      "id": 1937511281,
+      "properties": {
+        "amenity": "bicycle_parking"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2324868,
+          -25.4506627
+        ],
+        "type": "Point"
+      },
+      "id": 2410309795,
+      "properties": {
+        "amenity": "bicycle_parking"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2317841,
+          -25.4514328
+        ],
+        "type": "Point"
+      },
+      "id": 2410309796,
+      "properties": {
+        "amenity": "bicycle_parking"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2303384,
+          -25.451675
+        ],
+        "type": "Point"
+      },
+      "id": 2410309802,
+      "properties": {
+        "amenity": "bicycle_parking"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2715537,
+          -25.4296955
+        ],
+        "type": "Point"
+      },
+      "id": 2412164730,
+      "properties": {
+        "amenity": "bicycle_parking"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2619986,
+          -25.4267743
+        ],
+        "type": "Point"
+      },
+      "id": 2412234544,
+      "properties": {
+        "amenity": "bicycle_parking"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.239922,
+          -25.4359133
+        ],
+        "type": "Point"
+      },
+      "id": 2919681363,
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "5",
+        "name": "Biciclet\u0e23\u0e01rio Pao Prosa"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,551 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9139094,
+          -15.784617
+        ],
+        "type": "Point"
+      },
+      "id": 2897250171,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Memorial JK",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "1",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9087794,
+          -15.7863125
+        ],
+        "type": "Point"
+      },
+      "id": 2897250172,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pra\u00e7a Buriti",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "2",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.9007476,
+          -15.7865141
+        ],
+        "type": "Point"
+      },
+      "id": 2897250173,
+      "properties": {
+        "addr:street": "Centro de Conven\u00e7\u00f5es",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Bras\u00edlia - Esta\u00e7\u00e3o 3",
+        "operator": "Ita\u00fa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8953122,
+          -15.7896869
+        ],
+        "type": "Point"
+      },
+      "id": 2897250174,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Torre de TV",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "04",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8912495,
+          -15.7894888
+        ],
+        "type": "Point"
+      },
+      "id": 2897250175,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Setor Hoteleiro Norte",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "5",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8815521,
+          -15.7935055
+        ],
+        "type": "Point"
+      },
+      "id": 2897250176,
+      "properties": {
+        "addr:street": "Rodovi\u00e1ria do Plano Piloto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rodovi\u00e1ria",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "6",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8747028,
+          -15.7975787
+        ],
+        "type": "Point"
+      },
+      "id": 2897250177,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Catedral Metropolitana",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "07",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8718436,
+          -15.7960608
+        ],
+        "type": "Point"
+      },
+      "id": 2897250178,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Minist\u00e9rio da Defesa",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "26",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8724296,
+          -15.7984104
+        ],
+        "type": "Point"
+      },
+      "id": 2897250179,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Minist\u00e9rio da Cultura",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "09",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8677576,
+          -15.7973305
+        ],
+        "type": "Point"
+      },
+      "id": 2897250180,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Minist\u00e9rio dos Transportes",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "10",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8934279,
+          -15.7966903
+        ],
+        "type": "Point"
+      },
+      "id": 2944057189,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "SRTVS",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "16",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.895171,
+          -15.795148
+        ],
+        "type": "Point"
+      },
+      "id": 3148378171,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Brasil 21",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "15",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8878,
+          -15.7871246
+        ],
+        "type": "Point"
+      },
+      "id": 3148378172,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bras\u00edlia Shopping",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "14",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8803185,
+          -15.7892839
+        ],
+        "type": "Point"
+      },
+      "id": 3148378173,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Correios",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "28",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.883332,
+          -15.7863637
+        ],
+        "type": "Point"
+      },
+      "id": 3148378174,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Liberty Mall",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "13",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8692619,
+          -15.7993298
+        ],
+        "type": "Point"
+      },
+      "id": 3148378175,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Minist\u00e9rio da Sa\u00fade",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "26",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8745917,
+          -15.7951056
+        ],
+        "type": "Point"
+      },
+      "id": 3148378176,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Minist\u00e9rio do Planejamento",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "27",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8819282,
+          -15.794759
+        ],
+        "type": "Point"
+      },
+      "id": 3148378177,
+      "properties": {
+        "addr:street": "Rodovi\u00e1ria do Plano Piloto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rodovi\u00e1ria 2",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "11",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8839735,
+          -15.7941911
+        ],
+        "type": "Point"
+      },
+      "id": 3148378178,
+      "properties": {
+        "addr:street": "Rodovi\u00e1ria do Plano Piloto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rodovi\u00e1ria 3",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "12",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8827053,
+          -15.7954608
+        ],
+        "type": "Point"
+      },
+      "id": 3148378179,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Terminal Touring",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "25",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8891068,
+          -15.7986971
+        ],
+        "type": "Point"
+      },
+      "id": 3150030032,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pra\u00e7a do Povo",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "18",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8909342,
+          -15.7961494
+        ],
+        "type": "Point"
+      },
+      "id": 3150030033,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Shopping P\u00e1tio Brasil",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Bike Bras\u00edlia",
+        "phone": "+55 61 40039846",
+        "ref": "17",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8796715,
+          -15.8046028
+        ],
+        "type": "Point"
+      },
+      "id": 3241582130,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "OAB",
+        "network": "Bike Bras\u00edlia",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "30",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8837697,
+          -15.8022368
+        ],
+        "type": "Point"
+      },
+      "id": 3241582131,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Banco Central",
+        "network": "Bike Bras\u00edlia",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "19",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.890051,
+          -15.8055808
+        ],
+        "type": "Point"
+      },
+      "id": 3249673965,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Esta\u00e7\u00e3o 102 Sul",
+        "network": "Bike Bras\u00edlia",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "22",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8807424,
+          -15.8001009
+        ],
+        "type": "Point"
+      },
+      "id": 3249673966,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "SAS",
+        "network": "Bike Bras\u00edlia",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+55 61 40039846",
+        "ref": "20",
+        "website": "http://www.bikebrasilia.com"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

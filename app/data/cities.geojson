@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvador",
+        "code": "ssa",
+        "zoom": 12,
+        "id": 362362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.480987548828125,
+          -12.983482262686612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aracaju",
+        "code": "aju",
+        "zoom": 13,
+        "id": 303928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0615,
+          -10.9502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasília",
+        "code": "bsb",
+        "zoom": 12,
+        "id": 2758138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9378,
+          -15.799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio de Janeiro",
+        "code": "rio",
+        "zoom": 12,
+        "id": 2697338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1546,
+          -22.9018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Paulo",
+        "code": "sp",
+        "zoom": 12,
+        "id": 298285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63764953613281,
+          -23.549510383715926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Alegre",
+        "code": "poa",
+        "zoom": 13,
+        "id": 242397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1827278137207,
+          -30.032838809330116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curitiba",
+        "code": "cwb",
+        "id": 297514,
+        "zoom": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.27024841308594,
+          -25.429632773003096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florianópolis",
+        "code": "fln",
+        "zoom": 12,
+        "id": 296561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.542747497558594,
+          -27.595934774495042
+        ]
+      }
+    }
+  ]
+}

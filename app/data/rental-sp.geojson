@@ -1,0 +1,1597 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6669239,
+          -23.526324
+        ],
+        "type": "Point"
+      },
+      "id": 339680757,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Metro Barra Funda"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6554111,
+          -23.5342672
+        ],
+        "type": "Point"
+      },
+      "id": 339682304,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6242717,
+          -23.501537
+        ],
+        "type": "Point"
+      },
+      "id": 339686566,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5648631,
+          -23.5389513
+        ],
+        "type": "Point"
+      },
+      "id": 462747754,
+      "properties": {
+        "amenity": "bicycle_rental"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7132329,
+          -23.5642105
+        ],
+        "type": "Point"
+      },
+      "id": 1731971676,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Pedalusp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5033245,
+          -23.4859894
+        ],
+        "type": "Point"
+      },
+      "id": 2206234771,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Biciclet\u00e1rio da esta\u00e7\u00e3o USP Leste"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6365048,
+          -23.5598553
+        ],
+        "type": "Point"
+      },
+      "id": 2647326572,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6427872,
+          -23.5788106
+        ],
+        "type": "Point"
+      },
+      "id": 2860552968,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:postcode": "s",
+        "addr:street": "Rua E\u00e7a de Queir\u00f3s",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "E\u00e7a de Queiroz",
+        "network": "Bike Sampa",
+        "note": "em frente ao n\u00famero 187",
+        "operator": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6630366,
+          -23.5592808
+        ],
+        "type": "Point"
+      },
+      "id": 2862035166,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "807",
+        "addr:street": "Rua Haddock Lobo",
+        "addr:suburb": "Cerqueira C\u00e9sar",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Teatro Renaissance",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "23",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6905815,
+          -23.5478481
+        ],
+        "type": "Point"
+      },
+      "id": 2869109082,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metr\u00f4 Vila Madalena",
+        "operator": "Bike Sampa",
+        "ref": "110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6923887,
+          -23.6082435
+        ],
+        "type": "Point"
+      },
+      "id": 3094480276,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa Esta\u00e7\u00e3o 97 - Lions Mon\u00e7\u00f5es",
+        "network": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6832269,
+          -23.6018604
+        ],
+        "type": "Point"
+      },
+      "id": 3094483041,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bike Sampa Esta\u00e7\u00e3o 94 - Bandeirantes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6769961,
+          -23.5985914
+        ],
+        "type": "Point"
+      },
+      "id": 3094483042,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bike Sampa Esta\u00e7\u00e3o 62 - Faculdade Insper"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6755424,
+          -23.6009632
+        ],
+        "type": "Point"
+      },
+      "id": 3094483043,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Bike Sampa Esta\u00e7\u00e3o 61 - Faculdade Anhembi Morumbi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5761566,
+          -23.5298546
+        ],
+        "type": "Point"
+      },
+      "id": 3296596381,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "219",
+        "addr:street": "Rua Pitangui",
+        "addr:suburb": "Tatuap\u00e9",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque do Piqueri",
+        "operator": "Bike Sampa",
+        "ref": "200",
+        "source": "BikeSampa App"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7012435,
+          -23.5667453
+        ],
+        "type": "Point"
+      },
+      "id": 3296603056,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metr\u00f4 Pinheiros",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "wikipedia": "pt:bicicletario"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.575423,
+          -23.5330977
+        ],
+        "type": "Point"
+      },
+      "id": 3296648971,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "877 B",
+        "addr:street": "Rua Maria Eleonora",
+        "addr:suburb": "Tatuap\u00e9",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Tuiuti",
+        "operator": "Bike Sampa",
+        "ref": "199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5755399,
+          -23.5388519
+        ],
+        "type": "Point"
+      },
+      "id": 3296653333,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1525",
+        "addr:street": "Rua Tuiuti",
+        "addr:suburb": "Tatuap\u00e9",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metr\u00f4 Boulevard Tatuap\u00e9",
+        "operator": "Bike Sampa",
+        "ref": "196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5736653,
+          -23.5367611
+        ],
+        "type": "Point"
+      },
+      "id": 3296656399,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "221",
+        "addr:street": "Rua Teixeira de Melo",
+        "addr:suburb": "Tatuap\u00e9",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "SENAI",
+        "operator": "Bike Sampa",
+        "ref": "197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6604821,
+          -23.5938173
+        ],
+        "type": "Point"
+      },
+      "id": 3296658993,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "882",
+        "addr:street": "Avenida IV Centenario",
+        "addr:suburb": "Jardim Luzit\u00e2nia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque Ibirapuera - Portao 06",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "46",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6907618,
+          -23.5611833
+        ],
+        "type": "Point"
+      },
+      "id": 3296849109,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "770",
+        "addr:street": "Rua Sim\u00e3o \u00c1lvares",
+        "addr:suburb": "Pinheiros",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sim\u00e3o \u00c1lvares",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "108",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6569495,
+          -23.5643521
+        ],
+        "type": "Point"
+      },
+      "id": 3296862071,
+      "properties": {
+        "addr:street": "Alameda Ja\u00fa, em frente \u00e0 Pra\u00e7a Alexandre Gusm\u00e3o",
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Parque Trianon",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "21",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6598437,
+          -23.5616906
+        ],
+        "type": "Point"
+      },
+      "id": 3296871354,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1278",
+        "addr:street": "Alameda Ja\u00fa",
+        "addr:suburb": "Cerqueira Cesar",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alliance Francaise",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "22",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6468286,
+          -23.592197
+        ],
+        "type": "Point"
+      },
+      "id": 3296873253,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Largo Senador Raul Cardoso",
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "Cinemateca",
+        "network": "Bike Sampa",
+        "note": "Em frente a portaria no. 1 da Cinemateca.",
+        "operator": "Bike Sampa",
+        "ref": "2",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6479617,
+          -23.5871658
+        ],
+        "type": "Point"
+      },
+      "id": 3296873254,
+      "properties": {
+        "addr:street": "Rua Morgado de Matheus",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Instituto Biol\u00f3gico",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 652.",
+        "operator": "Bike Sampa",
+        "ref": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6428314,
+          -23.5929796
+        ],
+        "type": "Point"
+      },
+      "id": 3296873255,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Capit\u00e3o Macedo",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Capit\u00e3o Macedo",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 277.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6403766,
+          -23.5895735
+        ],
+        "type": "Point"
+      },
+      "id": 3296873256,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Doutor \u00c1lvaro Alvim",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Belas Artes",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 76.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6432091,
+          -23.5870009
+        ],
+        "type": "Point"
+      },
+      "id": 3296878371,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Rio Grande",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Rio Grande",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 290.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6650779,
+          -23.6006684
+        ],
+        "type": "Point"
+      },
+      "id": 3296878887,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "456",
+        "addr:street": "Avenida Sabi\u00e1",
+        "addr:suburb": "moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Sabia",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "59",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6412354,
+          -23.5863283
+        ],
+        "type": "Point"
+      },
+      "id": 3296881966,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Humberto I",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Humberto I",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 745.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6652868,
+          -23.557748
+        ],
+        "type": "Point"
+      },
+      "id": 3296883221,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "2796",
+        "addr:street": "Rua da Consola\u00e7\u00e3o",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Consola\u00e7\u00e3o",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6443162,
+          -23.5814222
+        ],
+        "type": "Point"
+      },
+      "id": 3296884508,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Pelotas",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sesc Vila Mariana",
+        "network": "Bike Sampa",
+        "note": "em frente ao Shopping Vila Mariana",
+        "operator": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.641288,
+          -23.5812797
+        ],
+        "type": "Point"
+      },
+      "id": 3296887893,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Ambrosina de Macedo",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Metr\u00f4 Ana Rosa",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 44.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6611417,
+          -23.5744363
+        ],
+        "type": "Point"
+      },
+      "id": 3296904880,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "368",
+        "addr:street": "Rua Madre Teodora",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Estados Unidos",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.644244,
+          -23.5750262
+        ],
+        "type": "Point"
+      },
+      "id": 3296909561,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Afonso de Freitas",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rua Cubat\u00e3o",
+        "network": "Bike Sampa",
+        "note": "Em frente ao n\u00famero 239.",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.650102,
+          -23.5792397
+        ],
+        "type": "Point"
+      },
+      "id": 3296911506,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Pra\u00e7a Sant\u00edssimo Sacramento",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Viaduto Tut\u00f3ia",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "website": "http://www.bikesampa.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6680939,
+          -23.5621145
+        ],
+        "type": "Point"
+      },
+      "id": 3296917435,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "2006",
+        "addr:street": "Rua Bela Cintra",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bela Cintra",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "25",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6743151,
+          -23.6075091
+        ],
+        "type": "Point"
+      },
+      "id": 3296939532,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1648",
+        "addr:street": "Rua Inhambu",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Fernandes de Lima",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "58",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6695888,
+          -23.6040266
+        ],
+        "type": "Point"
+      },
+      "id": 3296939533,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "550",
+        "addr:street": "Rua Rouxinol",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Rouxinol",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "57",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.668801,
+          -23.6088422
+        ],
+        "type": "Point"
+      },
+      "id": 3296939534,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "813",
+        "addr:street": "Avenida Cotovia",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Shopping Ibirapuera",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6639862,
+          -23.6151726
+        ],
+        "type": "Point"
+      },
+      "id": 3296939535,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1545",
+        "addr:street": "Alameda dos Aic\u00e1s",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Carinas",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "55",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6628545,
+          -23.6108583
+        ],
+        "type": "Point"
+      },
+      "id": 3296939536,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "458",
+        "addr:street": "Avenida Ira\u00ed",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Universidade Ibirapuera",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "54",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6587287,
+          -23.6126071
+        ],
+        "type": "Point"
+      },
+      "id": 3296951510,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "859",
+        "addr:street": "Alameda Guaramonis",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Aratas",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "53",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6574881,
+          -23.6066589
+        ],
+        "type": "Point"
+      },
+      "id": 3296955556,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "451",
+        "addr:street": "Alameda dos Anapur\u00fas",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alameda dos Anapurus",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "52",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6544241,
+          -23.6034622
+        ],
+        "type": "Point"
+      },
+      "id": 3296958088,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "595",
+        "addr:street": "Avenida Indian\u00f3polis",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Indianopolis",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "51",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6713634,
+          -23.6011618
+        ],
+        "type": "Point"
+      },
+      "id": 3296958351,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "379",
+        "addr:street": "Rua Gra\u00fana",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Grauna",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "60",
+        "source": "https://ww2.mobilicidade.com.br/bikesampa/mapaestacao.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6713296,
+          -23.5913909
+        ],
+        "type": "Point"
+      },
+      "id": 3296968765,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "408",
+        "addr:street": "RUA Jacques Felix",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jacques Felix",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "40",
+        "source": "http://www.mobilicidade.com.br/bikesampa",
+        "website": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6748262,
+          -23.5899466
+        ],
+        "type": "Point"
+      },
+      "id": 3296968766,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1182",
+        "addr:street": "Rua do Consorcio",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bandeira Paulista",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "41",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6790041,
+          -23.5915608
+        ],
+        "type": "Point"
+      },
+      "id": 3296968767,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "104",
+        "addr:street": "Rua Comandatuba",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Jesuino Cardoso",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "42",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6735422,
+          -23.5950605
+        ],
+        "type": "Point"
+      },
+      "id": 3296968768,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "75E",
+        "addr:street": "Rua Egito",
+        "addr:suburb": "Vila Olimpia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Santa Justina",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "43",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6698963,
+          -23.5962928
+        ],
+        "type": "Point"
+      },
+      "id": 3296968769,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "518",
+        "addr:street": "Rua Gararu",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Diogo Jacome",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "44",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6691588,
+          -23.5940596
+        ],
+        "type": "Point"
+      },
+      "id": 3296968770,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "21",
+        "addr:street": "Pra\u00e7a Pereira Coutinho",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Pereira Coutinho",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "45",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6555788,
+          -23.5921211
+        ],
+        "type": "Point"
+      },
+      "id": 3296968771,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "461",
+        "addr:street": "Avenida do Quarto Centen\u00e1rio",
+        "addr:suburb": "Jardim Luzit\u00e2nia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque Ibirapuera - Portao 05",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "47",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6548698,
+          -23.5943986
+        ],
+        "type": "Point"
+      },
+      "id": 3296968772,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "116",
+        "addr:street": "Largo Mestre de Aviz",
+        "addr:suburb": "Jardim Luzitania",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Ibirapuera",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "48",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6598882,
+          -23.6008016
+        ],
+        "type": "Point"
+      },
+      "id": 3296968773,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "170",
+        "addr:street": "Avenida A\u00e7oc\u00ea",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Parque das Bicicletas",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "49",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6608536,
+          -23.6041644
+        ],
+        "type": "Point"
+      },
+      "id": 3296968774,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "58",
+        "addr:street": "Avenida Divino Salvador",
+        "addr:suburb": "Moema",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "N. Sra. Aparecida",
+        "network": "BikeSampa",
+        "operator": "BikeSampa",
+        "ref": "50",
+        "source": "http://www.mobilicidade.com.br/bikesampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6660244,
+          -23.5657525
+        ],
+        "type": "Point"
+      },
+      "id": 3296984988,
+      "properties": {
+        "addr:housenumber": "465",
+        "addr:street": "Rua Oscar Freire",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Oscar Freire",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "26",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6621376,
+          -23.5679304
+        ],
+        "type": "Point"
+      },
+      "id": 3296984989,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "930",
+        "addr:street": "Alameda Casa Branca",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Alameda Casa Branca",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "27",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6649244,
+          -23.5703436
+        ],
+        "type": "Point"
+      },
+      "id": 3296984990,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "6",
+        "addr:street": "Rua Canad\u00e1",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Canad\u00e1",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "28",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6732581,
+          -23.5649859
+        ],
+        "type": "Point"
+      },
+      "id": 3296987028,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:street": "Rua Guadelupe",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Guadalupe",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "29",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6737194,
+          -23.5673363
+        ],
+        "type": "Point"
+      },
+      "id": 3297003293,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "365",
+        "addr:street": "Rua Venezuela",
+        "addr:suburb": "Jardim Europa",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Brasil",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "30",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6661127,
+          -23.5785514
+        ],
+        "type": "Point"
+      },
+      "id": 3297009506,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "322",
+        "addr:street": "Rua Antonio Bento",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Antonio Bento",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "31",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6674323,
+          -23.5813096
+        ],
+        "type": "Point"
+      },
+      "id": 3297024515,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "507",
+        "addr:street": "Rua General Mena Barreto",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Henrique Martins",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "32",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6710694,
+          -23.5795986
+        ],
+        "type": "Point"
+      },
+      "id": 3297056163,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "85",
+        "addr:street": "Rua Pedroso Alvarenga",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Avenida Sao Gabriel",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "33",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6722227,
+          -23.5834679
+        ],
+        "type": "Point"
+      },
+      "id": 3297071061,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "149",
+        "addr:street": "Rua Bras\u00edlia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Joaquim Floriano",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "34",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6771028,
+          -23.5871508
+        ],
+        "type": "Point"
+      },
+      "id": 3297078591,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "16",
+        "addr:street": "Rua Iai\u00e1",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Joao Cachoeira",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "ref": "35",
+        "source": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6937411,
+          -23.5669258
+        ],
+        "type": "Point"
+      },
+      "id": 3297128913,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297445579,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297445580,
+      "properties": {
+        "addr:street": "Rua Umburanas, em frente ao numero 78",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sampa Bike",
+        "network": "Sampa Bike",
+        "operator": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297812270,
+      "properties": {
+        "amenity": "bicycle_rental",
+        "name": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7100707,
+          -23.5537865
+        ],
+        "type": "Point"
+      },
+      "id": 3297812271,
+      "properties": {
+        "addr:street": "Rua Umburanas, em frente ao numero 78",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Sampa Bike",
+        "network": "Sampa Bike",
+        "operator": "Sampa Bike"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5782124,
+          -23.5361397
+        ],
+        "type": "Point"
+      },
+      "id": 3298729123,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "241",
+        "addr:street": "Rua Andr\u00e9 Vidal",
+        "addr:suburb": "Tatuap\u00e9",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Andr\u00e9 Vidal",
+        "operator": "Bike Sampa",
+        "ref": "198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6440856,
+          -23.5986225
+        ],
+        "type": "Point"
+      },
+      "id": 3301480510,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "832",
+        "addr:street": "Rua Napole\u00e3o de Barros",
+        "addr:suburb": "Vila Clementino",
+        "amenity": "bicycle_rental",
+        "capacity": "9",
+        "name": "BikeSampa",
+        "network": "BikeSampa",
+        "operator": "Sertel/Ita\u00fa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.677175,
+          -23.5738887
+        ],
+        "type": "Point"
+      },
+      "id": 3321819958,
+      "properties": {
+        "addr:housenumber": "310",
+        "addr:street": "Rua \u00c1ustria",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa",
+        "website": "http://www.mobilicidade.com.br/bikesampa.asp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6797016,
+          -23.577249
+        ],
+        "type": "Point"
+      },
+      "id": 3321827239,
+      "properties": {
+        "addr:housenumber": "308",
+        "addr:street": "Rua Su\u00e9cia",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "name": "Bike Sampa",
+        "network": "Bike Sampa",
+        "operator": "Bike Sampa"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

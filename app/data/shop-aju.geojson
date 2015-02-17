@@ -1,0 +1,77 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0710794,
+          -10.9275405
+        ],
+        "type": "Point"
+      },
+      "id": 1072018927,
+      "properties": {
+        "addr:housename": "Edif\u0102\u00adcio Auda Porto",
+        "addr:housenumber": "2439",
+        "addr:street": "Avenida Gon\u0102\u00a7alo Rollemberg Leite",
+        "name": "Ecociiclo",
+        "shop": "bicycle",
+        "website": "http://www.ecociiclo.com.br"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0664683,
+          -10.969539
+        ],
+        "type": "Point"
+      },
+      "id": 1073183968,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0708912,
+          -10.9110947
+        ],
+        "type": "Point"
+      },
+      "id": 3007865207,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:housenumber": "415",
+        "addr:street": "Rua Mariano Salmeron",
+        "addr:suburb": "Siqueira Campos",
+        "name": "Casa do Ciclista",
+        "repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.casadociclista.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -37.0732067,
+          -10.9094586
+        ],
+        "type": "Point"
+      },
+      "id": 3221751108,
+      "properties": {
+        "addr:city": "Aracaju",
+        "addr:street": "Rua Acre",
+        "addr:suburb": "Siqueira Campos",
+        "name": "Kanija",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

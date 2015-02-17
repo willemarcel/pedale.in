@@ -2,8 +2,8 @@ body {
   padding-top: 50px;
 }
 
-html, body, #map {
-  height: 100%;
+#map {
+  height: 1200px;
 }
 
 .navbar {
@@ -36,19 +36,29 @@ html, body, #map {
 .site-name {
   font-weight: '800' !important;
   font-size: 1.7em !important;
+  padding: 15px 5px 15px 15px;
+}
+
+.site-logo {
+  float: left;
+  padding: 15px;
+}
+
+.site-logo img {
+  height: 25px;
 }
 
 .cities-menu {
-  padding-top: 18px;
+  padding: 15px 0;
   line-height: 20px;
 }
 
 .cities-menu a {
-  font-size: 1.4em !important;
+  font-size: 1.7em !important;
 }
 
 .cities-menu a:hover {
-  font-size: 1.4em !important;
+  font-size: 1.7em !important;
   text-decoration: none;
 }
 

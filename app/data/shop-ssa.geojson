@@ -1,0 +1,287 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3666094,
+          -12.9458057
+        ],
+        "type": "Point"
+      },
+      "id": 2878085065,
+      "properties": {
+        "name": "CONEX\u00c3O BIKES",
+        "opening_hours": "8 AS 18 HORAS",
+        "service": "repair",
+        "service_1": "retail",
+        "service_2": "pump",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4356871,
+          -12.9286079
+        ],
+        "type": "Point"
+      },
+      "id": 2878087659,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "281",
+        "addr:postcode": "41253-190",
+        "addr:street": "Avenida S\u00e3o Marcos",
+        "name": "A&M Bicicletaria",
+        "opening_hours": "08:00 - 18:00",
+        "phone": "+55 713393 0373",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4449153,
+          -12.9973234
+        ],
+        "type": "Point"
+      },
+      "id": 2878100473,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:street": "Rua Artur de Azevedo Machado",
+        "name": "Bike Aventura",
+        "note": "Reparo, manuten\u00e7\u00e3o, conserto e venda de pe\u00e7as para bicicletas.",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5261511,
+          -13.0075636
+        ],
+        "type": "Point"
+      },
+      "id": 2878101017,
+      "properties": {
+        "name": "Repair Bike Shop Barra",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4612721,
+          -13.0076092
+        ],
+        "type": "Point"
+      },
+      "id": 2878107374,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "498",
+        "addr:postcode": "41830-020",
+        "addr:street": "Rua Minas Gerais",
+        "name": "Best Bike",
+        "opening_hours": "seg-sex 09:00 \u00e0s 18:00; sab 09:00-13:00",
+        "service": "dealer",
+        "service_1": "repair",
+        "service_2": "parts",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4839356,
+          -13.013355
+        ],
+        "type": "Point"
+      },
+      "id": 2878108626,
+      "properties": {
+        "name": "Newworldbike",
+        "opening_hours": "2\u00aa a 6\u00aa de 8h \u00e0s 18h - S\u00e1b. de 8h \u00e0s 13h",
+        "service": "retail;repair",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.366192,
+          -12.9325928
+        ],
+        "type": "Point"
+      },
+      "id": 2878112650,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:postcode": "41630-700",
+        "name": "CARACA BIKES",
+        "opening_hours": "8 as 17 horas",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4789816,
+          -12.9880257
+        ],
+        "type": "Point"
+      },
+      "id": 2878176025,
+      "properties": {
+        "addr:street": "Campinas de Brotas",
+        "name": "CICLOMOTO",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.3650502,
+          -12.9349761
+        ],
+        "type": "Point"
+      },
+      "id": 2878218179,
+      "properties": {
+        "name": "Bikes",
+        "opening_hours": "8 as 17 horas",
+        "service": "pump",
+        "service_1": "retail",
+        "service_2": "repair",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4217706,
+          -12.9383506
+        ],
+        "type": "Point"
+      },
+      "id": 2878262301,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:street": "Avenida S\u00e3o Rafael",
+        "name": "Cesar Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.5168053,
+          -12.9825833
+        ],
+        "type": "Point"
+      },
+      "id": 3044719033,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:street": "Pra\u00e7a General Inoc\u00eancio Galv\u00e3o",
+        "addr:suburb": "Centro",
+        "name": "ErvaCiclo",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4318986,
+          -12.975152
+        ],
+        "type": "Point"
+      },
+      "id": 3045971158,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "60",
+        "addr:postcode": "41710-000",
+        "addr:street": "Estrada Professor Pinto de Aguiar",
+        "addr:suburb": "Boca do Rio",
+        "name": "A&M BICICLETARIA",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4324538,
+          -12.9799498
+        ],
+        "type": "Point"
+      },
+      "id": 3045973988,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "72",
+        "addr:street": "Rua Sim\u00f5es Filho",
+        "addr:suburb": "Boca do Rio",
+        "name": "Pro Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4302329,
+          -12.9780679
+        ],
+        "type": "Point"
+      },
+      "id": 3045975500,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "13",
+        "addr:street": "Rua Sim\u00f5es Filho",
+        "addr:suburb": "Boca do Rio",
+        "name": "Alan Bikes",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -38.4691362,
+          -13.0134111
+        ],
+        "type": "Point"
+      },
+      "id": 3078582668,
+      "properties": {
+        "addr:city": "Salvador",
+        "addr:housenumber": "37",
+        "addr:street": "Avenida Amaralina",
+        "addr:suburb": "Amaralina",
+        "name": "UNION Bike",
+        "phone": "(71) 3015-2222",
+        "shop": "bicycle",
+        "website": "https://www.facebook.com/unionbikesalvador"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

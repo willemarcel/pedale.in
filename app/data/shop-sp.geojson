@@ -1,0 +1,261 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7258775,
+          -23.5703287
+        ],
+        "type": "Point"
+      },
+      "id": 1373408252,
+      "properties": {
+        "name": "Bicicletaria do Luciano",
+        "phone": "+55 11 37261763",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5889084,
+          -23.5658655
+        ],
+        "type": "Point"
+      },
+      "id": 1770073775,
+      "properties": {
+        "name": "Ciclo A3",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.650915,
+          -23.4709265
+        ],
+        "type": "Point"
+      },
+      "id": 1910343542,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6922432,
+          -23.5565056
+        ],
+        "type": "Point"
+      },
+      "id": 2178760338,
+      "properties": {
+        "addr:city": "Sao Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "1344",
+        "addr:postcode": "05417-002",
+        "addr:street": "Rua Mourato Coelho",
+        "amenity": "bar",
+        "contact:phone": "(11) 3938-7366",
+        "contact:website": "http://www.sptrans.com.br",
+        "name": "Bar e Bicicletaria Las Magrelas",
+        "opening_hours": "Tu-Su 10:00-22:00",
+        "payment:bitcoin": "yes",
+        "phone": "(11) 3938-7366",
+        "service:bicycle:diy": "yes",
+        "shop": "bicycle",
+        "website": "http://lasmagrelas.com.br/",
+        "yelp": "http://www.yelp.com/biz/las-magrelas-s%C3%A3o-paulo#query:bar%20e%20bicicletaria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.4006507,
+          -23.6005436
+        ],
+        "type": "Point"
+      },
+      "id": 2235142489,
+      "properties": {
+        "name": "Bike",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6870411,
+          -23.7387577
+        ],
+        "type": "Point"
+      },
+      "id": 2288348038,
+      "properties": {
+        "name": "Aires Bicicletaria",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.685882,
+          -23.5944122
+        ],
+        "type": "Point"
+      },
+      "id": 2327588639,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "49",
+        "addr:postcode": "04552-010",
+        "addr:street": "Travessa Doutor Jos\u00e9 Alves de Souza Neto",
+        "alt_name": "Ciclo Vila",
+        "internet_access": "yes",
+        "name": "Ciclo Urbano",
+        "opening_hours": "Tu-Fr 11:00-19:00;Sa-Su 10:00-17:00",
+        "phone": "+55 11 3476-9919",
+        "repair": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "http://www.ciclourbano.com.br/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7353705,
+          -23.4498436
+        ],
+        "type": "Point"
+      },
+      "id": 2427991193,
+      "properties": {
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7482088,
+          -23.5631767
+        ],
+        "type": "Point"
+      },
+      "id": 2498790700,
+      "properties": {
+        "addr:housename": "Avenida do Rio Pequeno",
+        "name": "Bicicletaria do Gomes",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7806359,
+          -23.5873956
+        ],
+        "type": "Point"
+      },
+      "id": 2498798625,
+      "properties": {
+        "addr:housename": "\u00c9rico Ver\u00edssimo",
+        "name": "Bicicletaria do Jo\u00e3o",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6429174,
+          -23.5774593
+        ],
+        "type": "Point"
+      },
+      "id": 2862747066,
+      "properties": {
+        "name": "Ciclo Bianchini",
+        "phone": "1155393530",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6426623,
+          -23.6038538
+        ],
+        "type": "Point"
+      },
+      "id": 3296590880,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1536",
+        "addr:postcode": "04043-100",
+        "addr:street": "Rua Luis G\u00f3is",
+        "addr:suburb": "Vila Clementino",
+        "name": "Bike Stop",
+        "opening_hours": "09:30-18:30",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6720448,
+          -23.5328841
+        ],
+        "type": "Point"
+      },
+      "id": 3296622063,
+      "properties": {
+        "addr:street": "Rua Itapicuru",
+        "name": "Bicicletaria do Maluf",
+        "shop": "bicycle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6587297,
+          -23.5563203
+        ],
+        "type": "Point"
+      },
+      "id": 3296968764,
+      "properties": {
+        "addr:city": "S\u00e3o Paulo",
+        "addr:housenumber": "1429",
+        "addr:postcode": "01304-001",
+        "addr:street": "Rua Augusta",
+        "addr:suburb": "Consola\u00e7\u00e3o",
+        "addr:unit": "loja 12",
+        "name": "SPOKES Bike Shop",
+        "opening_hours": "Seg/Qua/Sex: 11:00 - 20:00 Ter/Qui: 11:00 - 19:00 S\u00e1b/Dom: 15:00 - 20:00",
+        "phone": "+55 11 3895-4332",
+        "shop": "bicycle",
+        "website": "http://www.spokes.com.br/"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

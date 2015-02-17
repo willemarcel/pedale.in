@@ -14,7 +14,7 @@ angular.module('pedaleinApp')
       'AngularJS',
       'Karma'
     ];
-    var parking, shops, rental;
+    var parking, shop, rental;
 
     var map = L.map('map').setView([-12.9383, -38.4261], 12);
 
@@ -34,7 +34,7 @@ angular.module('pedaleinApp')
     var shopLayer = L.layerGroup([]);
 
     var shopIcon = L.icon({
-      iconUrl: 'icons/shop.png',
+      iconUrl: 'images/shop.png',
       //iconRetinaUrl: 'js/images/marker-48@2x.png',
       iconSize: [25, 35],
       iconAnchor: [12, 35],
@@ -42,7 +42,7 @@ angular.module('pedaleinApp')
     });
 
     var parkingIcon = L.icon({
-      iconUrl: 'icons/parking.png',
+      iconUrl: 'images/parking.png',
       //iconRetinaUrl: 'js/images/marker-48@2x.png',
       iconSize: [25, 35],
       iconAnchor: [12, 35],
@@ -50,7 +50,7 @@ angular.module('pedaleinApp')
     });
 
     var rentalIcon = L.icon({
-      iconUrl: 'icons/rental.png',
+      iconUrl: 'images/rental.png',
       //iconRetinaUrl: 'js/images/marker-48@2x.png',
       iconSize: [25, 35],
       iconAnchor: [12, 35],
@@ -59,6 +59,7 @@ angular.module('pedaleinApp')
 
 
     function parkingPopup(item) {
+      var html;
       if (item.properties.name) {
         html = '<span class="name">' + item.properties.name + '</span><br>';
       } else {
@@ -75,7 +76,7 @@ angular.module('pedaleinApp')
 
 
     function rentalPopup(item) {
-      html = '<span class="popup-title">Estação </span>';
+      var html = '<span class="popup-title">Estação </span>';
       if (item.properties.ref) {
         html += '<span class="ref">' + item.properties.ref + '. </span>';
       }
@@ -90,6 +91,7 @@ angular.module('pedaleinApp')
 
 
     function shopPopup(item) {
+      var html;
       if (item.properties.name) {
         html = '<p><span class="name">' + item.properties.name + '</span></p>';
         if (item.properties.phone) {
@@ -105,7 +107,7 @@ angular.module('pedaleinApp')
     }
 
 
-    $.getJSON("data/brazil_parking.geojson", function (data) {
+    $.getJSON("data/parking.geojson", function (data) {
       parking = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
           return L.marker(latlng, {icon: parkingIcon}).bindPopup(parkingPopup(feature));
@@ -115,7 +117,7 @@ angular.module('pedaleinApp')
     });
 
 
-    $.getJSON("data/brazil_rental.geojson", function (data) {
+    $.getJSON("data/rental.geojson", function (data) {
       rental = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
           return L.marker(latlng, {icon: rentalIcon}).bindPopup(rentalPopup(feature));
@@ -125,7 +127,7 @@ angular.module('pedaleinApp')
     });
 
 
-    $.getJSON("data/brazil_shop.geojson", function (data) {
+    $.getJSON("data/shop.geojson", function (data) {
       shop = L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
           return L.marker(latlng, {icon: shopIcon}).bindPopup(shopPopup(feature));
@@ -150,5 +152,5 @@ angular.module('pedaleinApp')
     shopLayer.addTo(map);
 
     L.control.layers(baseMaps, overlayMaps, {collapsed: true}).addTo(map);
-    
+
   });
